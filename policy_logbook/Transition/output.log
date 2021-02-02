@@ -1,0 +1,1289 @@
+2021-01-26 16:12:24,888 - INFO - #####################################
+2021-01-26 16:12:24,890 - INFO - ############Start Training###########
+2021-01-26 16:12:24,891 - INFO - #####################################
+2021-01-26 16:12:34,344 - INFO - Env 07, Goal (-05.2, 007.2), Episode 00001, setp 077, Reward -11.2, Distance 009.6, Crashed
+2021-01-26 16:12:36,549 - INFO - Env 08, Goal (004.1, -03.8), Episode 00001, setp 096, Reward -3.6 , Distance 009.4, Crashed
+2021-01-26 16:12:38,159 - INFO - Env 01, Goal (-04.1, 004.3), Episode 00001, setp 109, Reward -6.7 , Distance 009.2, Crashed
+2021-01-26 16:12:38,542 - INFO - Env 09, Goal (000.4, -01.3), Episode 00001, setp 110, Reward 2.4  , Distance 008.2, Crashed
+2021-01-26 16:12:39,439 - INFO - Env 08, Goal (-00.4, 003.5), Episode 00002, setp 021, Reward -16.9, Distance 010.0, Crashed
+2021-01-26 16:12:39,919 - INFO - Env 06, Goal (004.7, 001.9), Episode 00001, setp 118, Reward -7.6 , Distance 009.9, Crashed
+2021-01-26 16:12:40,337 - INFO - Env 10, Goal (-02.0, 007.3), Episode 00001, setp 119, Reward -13.4, Distance 009.3, Crashed
+2021-01-26 16:12:40,438 - INFO - ########################## model saved when update 50 times#########################
+2021-01-26 16:12:40,440 - INFO - Env 00, Goal (003.0, 001.5), Episode 00001, setp 119, Reward -5.1 , Distance 008.4, Crashed
+2021-01-26 16:14:18,252 - INFO - #####################################
+2021-01-26 16:14:18,253 - INFO - ############Start Training###########
+2021-01-26 16:14:18,254 - INFO - #####################################
+2021-01-26 16:14:30,037 - INFO - Env 02, Goal (-02.7, -08.1), Episode 00001, setp 111, Reward -36.2, Distance 009.5, Crashed
+2021-01-26 16:14:33,223 - INFO - Env 08, Goal (001.6, -08.2), Episode 00001, setp 131, Reward 33.9 , Distance 008.2, Reach Goal
+2021-01-26 16:14:35,453 - INFO - Env 07, Goal (-01.6, -00.8), Episode 00001, setp 150, Reward -12.0, Distance 009.4, Crashed
+2021-01-26 16:14:35,965 - INFO - Env 01, Goal (-02.9, 000.3), Episode 00001, setp 152, Reward 2.3  , Distance 009.2, Time out
+2021-01-26 16:14:35,966 - INFO - Env 10, Goal (-06.8, 002.1), Episode 00001, setp 152, Reward -16.5, Distance 009.3, Time out
+2021-01-26 16:14:35,966 - INFO - Env 11, Goal (-03.5, -06.8), Episode 00001, setp 152, Reward -16.5, Distance 008.5, Time out
+2021-01-26 16:14:35,967 - INFO - Env 05, Goal (-04.3, 003.7), Episode 00001, setp 152, Reward 5.0  , Distance 009.0, Time out
+2021-01-26 16:14:35,967 - INFO - Env 03, Goal (-03.3, -01.3), Episode 00001, setp 152, Reward 13.3 , Distance 008.8, Time out
+2021-01-26 16:14:35,967 - INFO - Env 06, Goal (-02.6, 001.9), Episode 00001, setp 152, Reward 10.2 , Distance 009.3, Time out
+2021-01-26 16:14:35,967 - INFO - Env 04, Goal (-05.6, 002.6), Episode 00001, setp 152, Reward -1.1 , Distance 008.3, Time out
+2021-01-26 16:14:35,968 - INFO - Env 09, Goal (-00.6, -04.8), Episode 00001, setp 152, Reward 8.5  , Distance 009.7, Time out
+2021-01-26 16:14:35,968 - INFO - Env 00, Goal (-04.3, -02.9), Episode 00001, setp 152, Reward 12.9 , Distance 008.3, Time out
+2021-01-26 16:14:36,337 - INFO - Env 08, Goal (001.4, -01.4), Episode 00002, setp 023, Reward -18.3, Distance 009.3, Crashed
+2021-01-26 16:14:41,834 - INFO - Env 00, Goal (-01.1, 000.7), Episode 00002, setp 054, Reward -20.5, Distance 008.5, Crashed
+2021-01-26 16:14:42,239 - INFO - Env 11, Goal (004.7, -04.1), Episode 00002, setp 055, Reward -19.1, Distance 008.1, Crashed
+2021-01-26 16:14:44,639 - INFO - Env 08, Goal (005.0, 001.0), Episode 00003, setp 075, Reward -13.8, Distance 009.8, Crashed
+2021-01-26 16:14:46,260 - INFO - Env 09, Goal (-01.8, -04.8), Episode 00002, setp 089, Reward -23.8, Distance 009.8, Crashed
+2021-01-26 16:14:47,228 - INFO - Env 05, Goal (-03.5, -01.2), Episode 00002, setp 096, Reward -24.1, Distance 009.2, Crashed
+2021-01-26 16:14:48,662 - INFO - Env 08, Goal (001.1, -04.6), Episode 00004, setp 031, Reward -17.6, Distance 009.0, Crashed
+2021-01-26 16:14:49,535 - INFO - Env 02, Goal (001.0, 002.1), Episode 00002, setp 152, Reward 2.3  , Distance 008.9, Time out
+2021-01-26 16:14:50,322 - INFO - Env 09, Goal (-05.3, -02.0), Episode 00003, setp 029, Reward -18.1, Distance 009.9, Crashed
+2021-01-26 16:14:50,738 - INFO - Env 07, Goal (003.8, 002.9), Episode 00002, setp 120, Reward -19.5, Distance 009.1, Crashed
+2021-01-26 16:14:50,738 - INFO - Env 09, Goal (-02.5, -07.1), Episode 00004, setp 002, Reward -15.0, Distance 008.4, Crashed
+2021-01-26 16:14:52,542 - INFO - Env 07, Goal (000.2, 004.6), Episode 00003, setp 016, Reward -16.4, Distance 008.3, Crashed
+2021-01-26 16:14:53,522 - INFO - Env 02, Goal (005.4, 003.2), Episode 00003, setp 030, Reward -12.1, Distance 009.5, Crashed
+2021-01-26 16:14:54,855 - INFO - Env 04, Goal (-03.0, -06.2), Episode 00002, setp 150, Reward -17.4, Distance 009.4, Crashed
+2021-01-26 16:14:55,239 - INFO - Env 05, Goal (-04.0, 002.7), Episode 00003, setp 056, Reward -15.1, Distance 009.0, Crashed
+2021-01-26 16:14:55,638 - INFO - Env 10, Goal (001.5, -05.8), Episode 00002, setp 152, Reward 16.6 , Distance 009.2, Time out
+2021-01-26 16:14:55,638 - INFO - Env 01, Goal (-07.6, 002.6), Episode 00002, setp 152, Reward -8.6 , Distance 009.2, Time out
+2021-01-26 16:14:55,638 - INFO - Env 03, Goal (-00.1, -05.2), Episode 00002, setp 152, Reward -4.3 , Distance 009.5, Time out
+2021-01-26 16:14:55,639 - INFO - Env 06, Goal (004.0, -06.7), Episode 00002, setp 152, Reward -4.0 , Distance 008.8, Time out
+2021-01-26 16:14:58,158 - INFO - Env 04, Goal (000.8, 002.0), Episode 00003, setp 025, Reward -17.4, Distance 009.9, Crashed
+2021-01-26 16:15:02,717 - INFO - Env 08, Goal (-01.2, -01.2), Episode 00005, setp 082, Reward -18.2, Distance 009.2, Crashed
+2021-01-26 16:16:06,133 - INFO - ####################################
+2021-01-26 16:16:06,134 - INFO - ############Loading Model###########
+2021-01-26 16:16:06,135 - INFO - ####################################
+2021-01-26 16:16:12,513 - INFO - Env 02, Goal (-04.5, 006.9), Episode 00001, setp 056, Reward -2.2 , Distance 009.9, Crashed
+2021-01-26 16:16:13,831 - INFO - Env 06, Goal (-07.1, 005.3), Episode 00001, setp 066, Reward 38.4 , Distance 009.9, Reach Goal
+2021-01-26 16:16:14,521 - INFO - Env 09, Goal (001.6, -00.2), Episode 00001, setp 070, Reward 3.4  , Distance 009.4, Crashed
+2021-01-26 16:16:15,534 - INFO - Env 01, Goal (-00.2, 004.2), Episode 00001, setp 077, Reward 36.1 , Distance 009.0, Reach Goal
+2021-01-26 16:16:16,407 - INFO - Env 05, Goal (-00.3, -01.3), Episode 00001, setp 083, Reward 2.3  , Distance 008.3, Crashed
+2021-01-26 16:16:18,607 - INFO - Env 08, Goal (-00.8, 000.7), Episode 00001, setp 102, Reward 38.6 , Distance 010.0, Reach Goal
+2021-01-26 16:16:19,007 - INFO - Env 04, Goal (004.0, 006.9), Episode 00001, setp 103, Reward 37.1 , Distance 009.4, Reach Goal
+2021-01-26 16:16:19,591 - INFO - ########################## model saved when update 50 times#########################
+2021-01-26 16:16:19,593 - INFO - Env 00, Goal (004.1, 001.9), Episode 00001, setp 105, Reward 34.0 , Distance 008.1, Reach Goal
+2021-01-26 16:16:23,409 - INFO - Env 10, Goal (-02.3, 001.3), Episode 00001, setp 136, Reward 37.4 , Distance 009.5, Reach Goal
+2021-01-26 16:16:24,223 - INFO - Env 07, Goal (-00.7, 007.0), Episode 00001, setp 141, Reward 37.5 , Distance 009.5, Reach Goal
+2021-01-26 16:16:25,027 - INFO - Env 02, Goal (-04.5, -07.7), Episode 00002, setp 091, Reward 34.8 , Distance 008.5, Reach Goal
+2021-01-26 16:16:25,806 - INFO - Env 03, Goal (-00.7, -05.7), Episode 00001, setp 152, Reward 19.6 , Distance 009.8, Time out
+2021-01-26 16:16:25,806 - INFO - Env 11, Goal (-02.9, 008.5), Episode 00001, setp 152, Reward 15.4 , Distance 008.9, Time out
+2021-01-26 16:16:28,187 - INFO - Env 06, Goal (-01.5, 002.4), Episode 00002, setp 108, Reward 36.5 , Distance 009.1, Reach Goal
+2021-01-26 16:16:29,485 - INFO - Env 01, Goal (-01.3, -06.4), Episode 00002, setp 107, Reward 37.3 , Distance 009.5, Reach Goal
+2021-01-26 16:16:29,536 - INFO - Env 08, Goal (004.8, -07.4), Episode 00002, setp 082, Reward 34.1 , Distance 008.1, Reach Goal
+2021-01-26 16:16:31,714 - INFO - Env 09, Goal (000.2, -05.9), Episode 00002, setp 133, Reward 35.7 , Distance 008.9, Reach Goal
+2021-01-26 16:16:32,107 - INFO - Env 06, Goal (001.7, 001.2), Episode 00003, setp 031, Reward -13.7, Distance 009.6, Crashed
+2021-01-26 16:16:32,107 - INFO - Env 09, Goal (000.4, -08.9), Episode 00003, setp 002, Reward -15.0, Distance 009.8, Crashed
+2021-01-26 16:16:32,517 - INFO - Env 00, Goal (-03.8, 001.7), Episode 00002, setp 100, Reward 34.9 , Distance 008.5, Reach Goal
+2021-01-26 16:16:33,217 - INFO - Env 05, Goal (002.6, 007.5), Episode 00002, setp 126, Reward 37.5 , Distance 009.6, Reach Goal
+2021-01-26 16:16:34,111 - INFO - Env 04, Goal (-03.5, 004.3), Episode 00002, setp 112, Reward 38.4 , Distance 009.9, Reach Goal
+2021-01-26 16:16:34,111 - INFO - Env 00, Goal (004.0, 002.0), Episode 00003, setp 011, Reward -15.2, Distance 008.5, Crashed
+2021-01-26 16:16:35,825 - INFO - Env 10, Goal (-03.9, -06.3), Episode 00002, setp 093, Reward 34.2 , Distance 008.2, Reach Goal
+2021-01-26 16:16:38,411 - INFO - Env 07, Goal (-03.2, 005.1), Episode 00002, setp 111, Reward 37.1 , Distance 009.4, Reach Goal
+2021-01-26 16:16:39,231 - INFO - Env 03, Goal (-02.3, -07.2), Episode 00002, setp 105, Reward 36.6 , Distance 009.2, Reach Goal
+2021-01-26 16:16:39,498 - INFO - Env 03, Goal (-01.2, -03.8), Episode 00003, setp 002, Reward -15.0, Distance 009.6, Crashed
+2021-01-26 16:16:39,498 - INFO - Env 02, Goal (-01.3, 006.6), Episode 00003, setp 112, Reward 6.2  , Distance 009.6, Crashed
+2021-01-26 16:16:40,489 - INFO - Env 11, Goal (-00.3, -03.6), Episode 00002, setp 112, Reward 35.5 , Distance 008.7, Reach Goal
+2021-01-26 16:16:42,823 - INFO - Env 08, Goal (-07.9, 002.1), Episode 00003, setp 101, Reward 36.1 , Distance 008.9, Reach Goal
+2021-01-26 16:16:43,629 - INFO - Env 06, Goal (-01.7, 001.6), Episode 00004, setp 086, Reward 34.9 , Distance 008.5, Reach Goal
+2021-01-26 16:16:44,985 - INFO - Env 09, Goal (-02.7, -06.7), Episode 00004, setp 097, Reward 33.8 , Distance 008.1, Reach Goal
+2021-01-26 16:16:45,407 - INFO - Env 01, Goal (004.1, 005.3), Episode 00003, setp 118, Reward 37.9 , Distance 009.7, Reach Goal
+2021-01-26 16:16:46,608 - INFO - Env 05, Goal (007.6, -00.6), Episode 00003, setp 102, Reward 35.1 , Distance 008.6, Reach Goal
+2021-01-26 16:16:47,011 - INFO - Env 00, Goal (002.7, -08.4), Episode 00004, setp 097, Reward 33.7 , Distance 008.1, Reach Goal
+2021-01-26 16:16:48,228 - INFO - Env 04, Goal (-01.6, -02.1), Episode 00003, setp 106, Reward 37.6 , Distance 009.6, Reach Goal
+2021-01-26 16:16:50,630 - INFO - Env 07, Goal (006.1, -03.6), Episode 00003, setp 090, Reward 35.1 , Distance 008.5, Reach Goal
+2021-01-26 16:16:52,695 - INFO - Env 10, Goal (005.0, -04.8), Episode 00003, setp 131, Reward 36.4 , Distance 009.1, Reach Goal
+2021-01-26 16:16:54,027 - INFO - Env 03, Goal (-02.9, 007.5), Episode 00004, setp 112, Reward 35.2 , Distance 008.6, Reach Goal
+2021-01-26 16:16:54,827 - INFO - Env 06, Goal (006.5, 001.2), Episode 00005, setp 086, Reward 33.8 , Distance 008.0, Reach Goal
+2021-01-26 16:16:55,495 - INFO - Env 11, Goal (002.0, 002.7), Episode 00003, setp 115, Reward 35.7 , Distance 008.8, Reach Goal
+2021-01-26 16:16:57,208 - INFO - Env 02, Goal (-01.2, -05.8), Episode 00004, setp 131, Reward 38.3 , Distance 009.9, Reach Goal
+2021-01-26 16:16:57,608 - INFO - Env 09, Goal (-01.9, -07.1), Episode 00005, setp 090, Reward 36.2 , Distance 009.0, Reach Goal
+2021-01-26 16:16:58,987 - INFO - Env 08, Goal (-05.2, 001.3), Episode 00004, setp 117, Reward 35.4 , Distance 008.7, Reach Goal
+2021-01-26 16:17:02,700 - INFO - Env 00, Goal (001.7, -00.4), Episode 00005, setp 124, Reward 38.3 , Distance 009.9, Reach Goal
+2021-01-26 16:17:03,109 - INFO - Env 04, Goal (-04.5, 002.4), Episode 00004, setp 116, Reward 36.0 , Distance 009.0, Reach Goal
+2021-01-26 16:17:05,109 - INFO - Env 05, Goal (-02.6, 005.9), Episode 00004, setp 143, Reward 37.6 , Distance 009.5, Reach Goal
+2021-01-26 16:17:05,109 - INFO - Env 01, Goal (-06.1, 002.1), Episode 00004, setp 152, Reward 17.5 , Distance 008.4, Time out
+2021-01-26 16:17:05,506 - INFO - Env 10, Goal (-02.2, -03.0), Episode 00004, setp 095, Reward 36.4 , Distance 009.2, Reach Goal
+2021-01-26 16:17:05,506 - INFO - Env 00, Goal (-03.2, 004.0), Episode 00006, setp 020, Reward -10.7, Distance 008.0, Crashed
+2021-01-26 16:17:05,506 - INFO - Env 05, Goal (003.1, -08.2), Episode 00005, setp 002, Reward -15.0, Distance 008.1, Crashed
+2021-01-26 16:17:06,121 - INFO - Env 03, Goal (000.4, 002.5), Episode 00005, setp 088, Reward 34.5 , Distance 008.3, Reach Goal
+2021-01-26 16:17:06,510 - INFO - Env 07, Goal (001.7, -05.9), Episode 00004, setp 117, Reward 37.3 , Distance 009.6, Reach Goal
+2021-01-26 16:17:08,922 - INFO - Env 11, Goal (001.0, 008.7), Episode 00004, setp 101, Reward 34.9 , Distance 008.5, Reach Goal
+2021-01-26 16:17:09,312 - INFO - Env 06, Goal (001.1, -00.6), Episode 00006, setp 106, Reward 36.6 , Distance 009.1, Reach Goal
+2021-01-26 16:17:10,129 - INFO - Env 02, Goal (005.4, -03.5), Episode 00005, setp 097, Reward 35.1 , Distance 008.6, Reach Goal
+2021-01-26 16:17:11,606 - INFO - Env 08, Goal (-03.8, 003.0), Episode 00005, setp 097, Reward 36.5 , Distance 009.1, Reach Goal
+2021-01-26 16:17:13,226 - INFO - Env 09, Goal (003.8, -05.6), Episode 00006, setp 121, Reward 36.6 , Distance 009.1, Reach Goal
+2021-01-26 16:17:16,401 - INFO - Env 04, Goal (001.1, -01.1), Episode 00005, setp 100, Reward 36.4 , Distance 009.0, Reach Goal
+2021-01-26 16:17:17,614 - INFO - Env 00, Goal (-07.6, 003.4), Episode 00007, setp 091, Reward 33.8 , Distance 008.1, Reach Goal
+2021-01-26 16:17:19,022 - INFO - Env 10, Goal (-03.6, -00.2), Episode 00005, setp 102, Reward 35.2 , Distance 008.6, Reach Goal
+2021-01-26 16:17:19,615 - INFO - Env 05, Goal (005.6, -06.4), Episode 00006, setp 105, Reward 35.3 , Distance 008.7, Reach Goal
+2021-01-26 16:17:20,427 - INFO - Env 03, Goal (003.4, 002.9), Episode 00006, setp 107, Reward 35.7 , Distance 008.8, Reach Goal
+2021-01-26 16:17:20,807 - INFO - Env 01, Goal (-04.8, -06.1), Episode 00005, setp 112, Reward 34.5 , Distance 008.5, Reach Goal
+2021-01-26 16:17:21,995 - INFO - Env 11, Goal (-02.7, 006.2), Episode 00005, setp 095, Reward 35.5 , Distance 008.7, Reach Goal
+2021-01-26 16:17:21,995 - INFO - Env 07, Goal (000.1, -02.0), Episode 00005, setp 116, Reward 35.3 , Distance 008.6, Reach Goal
+2021-01-26 16:17:23,916 - INFO - Env 06, Goal (-05.4, 003.5), Episode 00007, setp 110, Reward 34.6 , Distance 008.4, Reach Goal
+2021-01-26 16:17:24,307 - INFO - Env 09, Goal (-02.2, 002.4), Episode 00007, setp 081, Reward -3.3 , Distance 008.3, Crashed
+2021-01-26 16:17:24,307 - INFO - Env 06, Goal (-06.6, 005.8), Episode 00008, setp 002, Reward -15.0, Distance 008.8, Crashed
+2021-01-26 16:17:24,307 - INFO - Env 08, Goal (001.5, 001.6), Episode 00006, setp 094, Reward 3.9  , Distance 008.9, Crashed
+2021-01-26 16:17:26,311 - INFO - Env 02, Goal (-04.1, 003.1), Episode 00006, setp 123, Reward 36.0 , Distance 008.9, Reach Goal
+2021-01-26 16:17:29,524 - INFO - Env 00, Goal (-02.4, -04.7), Episode 00008, setp 093, Reward 35.8 , Distance 008.9, Reach Goal
+2021-01-26 16:17:31,311 - INFO - Env 05, Goal (-00.6, 002.6), Episode 00007, setp 090, Reward 35.0 , Distance 008.5, Reach Goal
+2021-01-26 16:17:32,288 - INFO - Env 11, Goal (005.4, -00.2), Episode 00006, setp 082, Reward 33.8 , Distance 008.1, Reach Goal
+2021-01-26 16:17:32,288 - INFO - Env 04, Goal (000.7, 007.9), Episode 00006, setp 120, Reward 36.7 , Distance 009.3, Reach Goal
+2021-01-26 16:17:33,131 - INFO - Env 11, Goal (003.4, -06.9), Episode 00007, setp 006, Reward -15.0, Distance 009.3, Crashed
+2021-01-26 16:17:33,805 - INFO - Env 07, Goal (-04.9, -02.1), Episode 00006, setp 091, Reward 34.2 , Distance 008.2, Reach Goal
+2021-01-26 16:17:33,806 - INFO - Env 10, Goal (-01.0, 000.3), Episode 00006, setp 109, Reward 37.9 , Distance 009.7, Reach Goal
+2021-01-26 16:17:35,710 - INFO - Env 03, Goal (-06.4, 001.0), Episode 00007, setp 117, Reward 36.6 , Distance 009.1, Reach Goal
+2021-01-26 16:17:36,108 - INFO - Env 09, Goal (002.2, -07.4), Episode 00008, setp 091, Reward 35.9 , Distance 008.9, Reach Goal
+2021-01-26 16:17:37,303 - INFO - Env 02, Goal (-03.6, 005.4), Episode 00007, setp 083, Reward 34.0 , Distance 008.1, Reach Goal
+2021-01-26 16:17:38,207 - INFO - Env 01, Goal (-03.5, -02.1), Episode 00006, setp 132, Reward 33.8 , Distance 008.0, Reach Goal
+2021-01-26 16:17:39,597 - INFO - Env 08, Goal (001.9, 004.7), Episode 00007, setp 118, Reward 36.0 , Distance 008.9, Reach Goal
+2021-01-26 16:17:42,603 - INFO - Env 00, Goal (005.2, -00.9), Episode 00009, setp 099, Reward 36.2 , Distance 009.1, Reach Goal
+2021-01-26 16:17:43,592 - INFO - Env 06, Goal (-00.6, 003.8), Episode 00009, setp 152, Reward 22.7 , Distance 010.0, Time out
+2021-01-26 16:17:45,138 - INFO - Env 04, Goal (-06.5, 005.0), Episode 00007, setp 100, Reward 37.2 , Distance 009.4, Reach Goal
+2021-01-26 16:17:46,615 - INFO - Env 07, Goal (004.6, -01.2), Episode 00007, setp 103, Reward 36.3 , Distance 009.1, Reach Goal
+2021-01-26 16:17:47,009 - INFO - Env 05, Goal (-03.1, 000.8), Episode 00008, setp 120, Reward 38.0 , Distance 009.7, Reach Goal
+2021-01-26 16:17:49,991 - INFO - Env 02, Goal (-06.7, 004.7), Episode 00008, setp 101, Reward 36.2 , Distance 009.0, Reach Goal
+2021-01-26 16:17:50,406 - INFO - Env 11, Goal (004.5, -05.4), Episode 00008, setp 132, Reward 37.1 , Distance 009.5, Reach Goal
+2021-01-26 16:17:50,807 - INFO - Env 01, Goal (005.2, 000.8), Episode 00007, setp 097, Reward 36.2 , Distance 009.1, Reach Goal
+2021-01-26 16:17:51,333 - INFO - Env 03, Goal (006.3, -04.0), Episode 00008, setp 115, Reward 38.0 , Distance 009.7, Reach Goal
+2021-01-26 16:17:52,512 - INFO - Env 10, Goal (006.8, -00.5), Episode 00007, setp 140, Reward 38.4 , Distance 009.9, Reach Goal
+2021-01-26 16:17:52,907 - INFO - Env 09, Goal (-01.4, 006.3), Episode 00009, setp 124, Reward 37.8 , Distance 009.7, Reach Goal
+2021-01-26 16:17:56,233 - INFO - Env 08, Goal (-02.0, 002.2), Episode 00008, setp 127, Reward 35.1 , Distance 008.6, Reach Goal
+2021-01-26 16:17:57,028 - INFO - Env 09, Goal (000.2, -05.0), Episode 00010, setp 036, Reward -10.4, Distance 008.5, Crashed
+2021-01-26 16:17:57,037 - INFO - Env 00, Goal (-06.4, 000.3), Episode 00010, setp 105, Reward 2.3  , Distance 009.9, Crashed
+2021-01-26 16:17:57,998 - INFO - Env 06, Goal (-02.0, 004.7), Episode 00010, setp 105, Reward 36.2 , Distance 009.0, Reach Goal
+2021-01-26 16:17:58,406 - INFO - Env 09, Goal (-00.1, -05.4), Episode 00011, setp 009, Reward -13.8, Distance 009.7, Crashed
+2021-01-26 16:17:59,613 - INFO - Env 07, Goal (003.5, -07.7), Episode 00008, setp 091, Reward 34.1 , Distance 008.1, Reach Goal
+2021-01-26 16:18:02,035 - INFO - Env 04, Goal (001.1, -05.2), Episode 00008, setp 124, Reward 36.0 , Distance 008.9, Reach Goal
+2021-01-26 16:18:02,411 - INFO - Env 01, Goal (005.5, 001.4), Episode 00008, setp 087, Reward 33.5 , Distance 008.0, Reach Goal
+2021-01-26 16:18:03,306 - INFO - Env 03, Goal (-00.5, 007.6), Episode 00009, setp 091, Reward 35.1 , Distance 008.5, Reach Goal
+2021-01-26 16:18:04,505 - INFO - Env 05, Goal (002.4, 003.9), Episode 00009, setp 127, Reward 37.1 , Distance 009.4, Reach Goal
+2021-01-26 16:18:06,689 - INFO - Env 02, Goal (006.6, -00.5), Episode 00009, setp 119, Reward 38.1 , Distance 009.7, Reach Goal
+2021-01-26 16:18:07,288 - INFO - Env 11, Goal (001.0, 004.9), Episode 00009, setp 121, Reward 36.4 , Distance 009.1, Reach Goal
+2021-01-26 16:18:09,198 - INFO - Env 10, Goal (008.3, 002.4), Episode 00008, setp 125, Reward 38.3 , Distance 009.9, Reach Goal
+2021-01-27 15:34:31,396 - INFO - ####################################
+2021-01-27 15:34:31,438 - INFO - ############Loading Model###########
+2021-01-27 15:34:31,439 - INFO - ####################################
+2021-01-27 15:37:32,317 - INFO - ####################################
+2021-01-27 15:37:32,318 - INFO - ############Loading Model###########
+2021-01-27 15:37:32,319 - INFO - ####################################
+2021-01-27 15:38:43,213 - INFO - ####################################
+2021-01-27 15:38:43,851 - INFO - ############Loading Model###########
+2021-01-27 15:38:43,852 - INFO - ####################################
+2021-01-27 15:38:54,629 - INFO - Env 05, Goal (000.8, 000.2), Episode 00001, step 090, Reward 35.1 , Distance 008.6, Reach Goal
+2021-01-27 15:39:01,251 - INFO - Env 04, Goal (-03.9, -02.3), Episode 00001, step 138, Reward -5.4 , Distance 009.2, Crashed
+2021-01-27 15:39:03,212 - INFO - Env 01, Goal (002.3, -04.3), Episode 00001, step 152, Reward 2.9  , Distance 009.5, Time out
+2021-01-27 15:39:03,212 - INFO - Env 02, Goal (004.1, -01.1), Episode 00001, step 152, Reward 2.9  , Distance 008.0, Time out
+2021-01-27 15:39:03,212 - INFO - Env 03, Goal (-06.7, 000.9), Episode 00001, step 152, Reward 2.5  , Distance 009.8, Time out
+2021-01-27 15:39:03,212 - INFO - Env 07, Goal (-02.4, 003.5), Episode 00001, step 152, Reward 2.7  , Distance 008.7, Time out
+2021-01-27 15:39:03,212 - INFO - Env 09, Goal (004.3, -01.0), Episode 00001, step 152, Reward 2.9  , Distance 008.2, Time out
+2021-01-27 15:39:03,212 - INFO - Env 06, Goal (000.8, -01.6), Episode 00001, step 152, Reward 3.1  , Distance 009.0, Time out
+2021-01-27 15:39:03,213 - INFO - Env 11, Goal (000.5, 003.1), Episode 00001, step 152, Reward 3.1  , Distance 009.6, Time out
+2021-01-27 15:39:03,214 - INFO - Env 10, Goal (008.3, 000.6), Episode 00001, step 152, Reward 2.3  , Distance 008.7, Time out
+2021-01-27 15:39:03,214 - INFO - Env 08, Goal (003.7, -01.2), Episode 00001, step 152, Reward 2.6  , Distance 009.6, Time out
+2021-01-27 15:39:03,215 - INFO - Env 00, Goal (002.5, 008.1), Episode 00001, step 152, Reward 2.2  , Distance 009.8, Time out
+2021-01-27 15:39:12,843 - INFO - Env 05, Goal (002.0, 001.2), Episode 00002, step 152, Reward 17.5 , Distance 009.4, Time out
+2021-01-27 15:39:18,514 - INFO - Env 04, Goal (003.8, 003.9), Episode 00002, step 152, Reward 9.1  , Distance 008.3, Time out
+2021-01-27 15:39:20,428 - INFO - Env 01, Goal (000.6, -02.2), Episode 00002, step 152, Reward 3.3  , Distance 008.9, Time out
+2021-01-27 15:39:20,428 - INFO - Env 03, Goal (000.8, -01.9), Episode 00002, step 152, Reward 3.3  , Distance 009.9, Time out
+2021-01-27 15:39:20,429 - INFO - Env 02, Goal (007.4, -02.4), Episode 00002, step 152, Reward 2.6  , Distance 009.9, Time out
+2021-01-27 15:39:20,429 - INFO - Env 11, Goal (-01.5, -06.7), Episode 00002, step 152, Reward 2.5  , Distance 008.8, Time out
+2021-01-27 15:39:20,430 - INFO - Env 09, Goal (-06.3, -02.7), Episode 00002, step 152, Reward 2.5  , Distance 008.2, Time out
+2021-01-27 15:39:20,431 - INFO - Env 07, Goal (001.8, -02.1), Episode 00002, step 152, Reward 3.3  , Distance 008.9, Time out
+2021-01-27 15:39:20,431 - INFO - Env 06, Goal (-00.5, 004.0), Episode 00002, step 152, Reward 3.3  , Distance 008.6, Time out
+2021-01-27 15:39:20,432 - INFO - Env 08, Goal (003.8, -02.9), Episode 00002, step 152, Reward 3.0  , Distance 008.8, Time out
+2021-01-27 15:39:20,432 - INFO - Env 10, Goal (001.1, 001.7), Episode 00002, step 152, Reward 3.3  , Distance 009.1, Time out
+2021-01-27 15:39:20,436 - INFO - Env 00, Goal (002.6, -06.6), Episode 00002, step 152, Reward 2.5  , Distance 008.5, Time out
+2021-01-27 15:39:30,113 - INFO - Env 05, Goal (-06.7, -04.5), Episode 00003, step 152, Reward 15.6 , Distance 008.5, Time out
+2021-01-27 15:39:35,425 - INFO - Env 04, Goal (003.3, 003.1), Episode 00003, step 152, Reward 8.5  , Distance 008.2, Time out
+2021-01-27 15:39:37,333 - INFO - Env 01, Goal (-01.4, 002.3), Episode 00003, step 152, Reward 3.1  , Distance 008.4, Time out
+2021-01-27 15:39:37,334 - INFO - Env 07, Goal (-06.3, 005.9), Episode 00003, step 152, Reward 2.5  , Distance 009.9, Time out
+2021-01-27 15:39:37,334 - INFO - Env 06, Goal (-00.0, 002.3), Episode 00003, step 152, Reward 2.9  , Distance 008.2, Time out
+2021-01-27 15:39:37,334 - INFO - Env 09, Goal (-05.6, -00.5), Episode 00003, step 152, Reward 2.7  , Distance 009.2, Time out
+2021-01-27 15:39:37,335 - INFO - Env 03, Goal (-00.8, -01.1), Episode 00003, step 152, Reward 3.0  , Distance 009.1, Time out
+2021-01-27 15:39:37,335 - INFO - Env 02, Goal (002.8, -01.7), Episode 00003, step 152, Reward 2.7  , Distance 008.6, Time out
+2021-01-27 15:39:37,335 - INFO - Env 11, Goal (002.3, 004.6), Episode 00003, step 152, Reward 3.0  , Distance 009.7, Time out
+2021-01-27 15:39:37,336 - INFO - Env 10, Goal (003.4, 003.1), Episode 00003, step 152, Reward 2.7  , Distance 010.0, Time out
+2021-01-27 15:39:37,336 - INFO - Env 08, Goal (001.6, -00.9), Episode 00003, step 152, Reward 3.1  , Distance 008.1, Time out
+2021-01-27 15:39:37,341 - INFO - Env 00, Goal (000.1, -02.3), Episode 00003, step 152, Reward 3.2  , Distance 008.1, Time out
+2021-01-27 15:39:47,142 - INFO - Env 05, Goal (003.0, 003.8), Episode 00004, step 152, Reward 16.2 , Distance 009.9, Time out
+2021-01-27 15:39:47,144 - INFO - Env 04, Goal (001.4, 001.0), Episode 00004, step 104, Reward 33.8 , Distance 008.1, Reach Goal
+2021-01-27 15:39:53,830 - INFO - Env 01, Goal (-02.5, 005.6), Episode 00004, step 152, Reward 12.0 , Distance 009.5, Time out
+2021-01-27 15:39:53,830 - INFO - Env 07, Goal (001.5, -08.6), Episode 00004, step 152, Reward 11.8 , Distance 009.5, Time out
+2021-01-27 15:39:53,831 - INFO - Env 06, Goal (-00.9, 005.5), Episode 00004, step 152, Reward 10.1 , Distance 008.9, Time out
+2021-01-27 15:39:53,833 - INFO - Env 09, Goal (003.6, 000.1), Episode 00004, step 152, Reward 12.5 , Distance 008.8, Time out
+2021-01-27 15:39:53,835 - INFO - Env 03, Goal (007.6, 001.4), Episode 00004, step 152, Reward 11.6 , Distance 010.0, Time out
+2021-01-27 15:39:53,835 - INFO - Env 02, Goal (-05.3, 003.7), Episode 00004, step 152, Reward 12.4 , Distance 009.7, Time out
+2021-01-27 15:39:53,836 - INFO - Env 11, Goal (-01.8, -08.3), Episode 00004, step 152, Reward 11.2 , Distance 009.6, Time out
+2021-01-27 15:39:53,837 - INFO - Env 10, Goal (005.8, 001.0), Episode 00004, step 152, Reward 12.3 , Distance 008.1, Time out
+2021-01-27 15:39:53,843 - INFO - Env 08, Goal (003.8, -03.8), Episode 00004, step 152, Reward 11.2 , Distance 008.4, Time out
+2021-01-27 15:39:53,845 - INFO - Env 00, Goal (002.1, -05.9), Episode 00004, step 152, Reward 12.6 , Distance 008.3, Time out
+2021-01-27 15:39:58,459 - INFO - Env 06, Goal (-01.1, 006.1), Episode 00005, step 038, Reward -7.9 , Distance 009.1, Crashed
+2021-01-27 15:40:04,113 - INFO - Env 05, Goal (-02.7, -03.5), Episode 00005, step 152, Reward 9.3  , Distance 008.5, Time out
+2021-01-27 15:40:04,116 - INFO - Env 04, Goal (-07.7, -00.8), Episode 00005, step 152, Reward 10.2 , Distance 008.5, Time out
+2021-01-27 15:40:10,825 - INFO - Env 01, Goal (-01.5, -01.5), Episode 00005, step 152, Reward 13.5 , Distance 010.0, Time out
+2021-01-27 15:40:10,825 - INFO - Env 09, Goal (002.8, 000.8), Episode 00005, step 152, Reward 12.3 , Distance 009.2, Time out
+2021-01-27 15:40:10,826 - INFO - Env 11, Goal (-02.4, -02.8), Episode 00005, step 152, Reward 10.6 , Distance 009.4, Time out
+2021-01-27 15:40:10,827 - INFO - Env 03, Goal (005.9, 002.2), Episode 00005, step 152, Reward 12.1 , Distance 008.2, Time out
+2021-01-27 15:40:10,827 - INFO - Env 02, Goal (-02.6, 000.8), Episode 00005, step 152, Reward 13.2 , Distance 008.9, Time out
+2021-01-27 15:40:10,827 - INFO - Env 08, Goal (-01.2, 001.5), Episode 00005, step 152, Reward 13.8 , Distance 008.8, Time out
+2021-01-27 15:40:10,830 - INFO - Env 10, Goal (001.1, 002.4), Episode 00005, step 152, Reward 13.8 , Distance 009.7, Time out
+2021-01-27 15:40:10,830 - INFO - Env 07, Goal (001.4, -05.8), Episode 00005, step 152, Reward 8.8  , Distance 008.5, Time out
+2021-01-27 15:40:10,836 - INFO - Env 00, Goal (-01.2, -02.2), Episode 00005, step 152, Reward 13.8 , Distance 009.4, Time out
+2021-01-27 15:40:15,457 - INFO - Env 06, Goal (000.3, 000.7), Episode 00006, step 152, Reward 7.9  , Distance 008.4, Time out
+2021-01-27 16:05:41,344 - INFO - ####################################
+2021-01-27 16:05:41,392 - INFO - ############Loading Model###########
+2021-01-27 16:05:41,393 - INFO - ####################################
+2021-01-27 16:07:31,883 - INFO - ####################################
+2021-01-27 16:07:31,883 - INFO - ############Loading Model###########
+2021-01-27 16:07:31,883 - INFO - ####################################
+2021-01-27 16:16:57,940 - INFO - ####################################
+2021-01-27 16:16:57,943 - INFO - ############Loading Model###########
+2021-01-27 16:16:57,944 - INFO - ####################################
+2021-01-27 16:19:17,678 - INFO - ####################################
+2021-01-27 16:19:17,680 - INFO - ############Loading Model###########
+2021-01-27 16:19:17,680 - INFO - ####################################
+2021-01-27 17:50:10,628 - INFO - ####################################
+2021-01-27 17:50:10,670 - INFO - ############Loading Model###########
+2021-01-27 17:50:10,670 - INFO - ####################################
+2021-01-27 17:58:05,899 - INFO - ####################################
+2021-01-27 17:58:05,900 - INFO - ############Loading Model###########
+2021-01-27 17:58:05,901 - INFO - ####################################
+2021-01-27 17:58:14,318 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 075, Reward 0.6  , Distance 016.0, Crashed
+2021-01-27 17:58:14,320 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 075, Reward 0.3  , Distance 016.0, Crashed
+2021-01-27 17:58:23,346 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 075, Reward 0.7  , Distance 015.9, Crashed
+2021-01-27 17:58:24,137 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 152, Reward 0.6  , Distance 016.0, Time out
+2021-01-27 17:58:24,139 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 152, Reward 1.0  , Distance 016.0, Time out
+2021-01-27 17:58:24,139 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 17:58:24,139 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 17:58:24,140 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 17:58:24,140 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 17:58:24,141 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 17:58:24,142 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 17:58:24,142 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 17:58:24,142 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 17:58:31,911 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 151, Reward 0.8  , Distance 015.9, Crashed
+2021-01-27 17:58:40,233 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 148, Reward 0.8  , Distance 015.9, Crashed
+2021-01-27 17:58:40,785 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 17:58:41,638 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:58:41,638 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:58:49,447 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 152, Reward 14.4 , Distance 015.9, Time out
+2021-01-27 17:58:57,728 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 152, Reward 16.2 , Distance 016.0, Time out
+2021-01-27 17:58:58,336 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 17:58:59,142 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:58:59,142 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00003, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 17:58:59,142 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 17:58:59,142 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 17:58:59,142 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 17:58:59,142 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:58:59,143 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:58:59,143 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 17:58:59,143 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:07,342 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 152, Reward 14.7 , Distance 016.0, Time out
+2021-01-27 17:59:15,237 - INFO - Env 08, Goal (004.0, 006.9), Episode 00004, step 148, Reward 0.4  , Distance 015.9, Crashed
+2021-01-27 17:59:15,245 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00004, step 152, Reward 15.8 , Distance 015.9, Time out
+2021-01-27 17:59:15,800 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 17:59:16,597 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:59:16,598 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:59:16,599 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:59:16,599 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:59:16,599 - INFO - Env 06, Goal (008.0, 000.0), Episode 00004, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 17:59:16,599 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00004, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:16,604 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:16,604 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:59:24,847 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 152, Reward 15.0 , Distance 016.0, Time out
+2021-01-27 17:59:32,638 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 147, Reward 0.8  , Distance 015.9, Crashed
+2021-01-27 17:59:33,245 - INFO - Env 08, Goal (004.0, 006.9), Episode 00005, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 17:59:33,253 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00005, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 17:59:33,802 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 17:59:34,596 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00005, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:59:34,597 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:59:34,597 - INFO - Env 06, Goal (008.0, 000.0), Episode 00005, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 17:59:34,597 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00005, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 17:59:34,598 - INFO - Env 05, Goal (006.9, -04.0), Episode 00005, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 17:59:34,598 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:34,600 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:42,842 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 152, Reward 16.2 , Distance 016.0, Time out
+2021-01-27 17:59:50,914 - INFO - Env 05, Goal (006.9, -04.0), Episode 00006, step 146, Reward 0.8  , Distance 015.9, Crashed
+2021-01-27 17:59:51,495 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 17:59:52,093 - INFO - Env 08, Goal (004.0, 006.9), Episode 00006, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 17:59:52,096 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00006, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 17:59:52,686 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00007, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 17:59:53,533 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00006, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:53,533 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 17:59:53,533 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 17:59:53,533 - INFO - Env 06, Goal (008.0, 000.0), Episode 00006, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 17:59:53,533 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00006, step 152, Reward 0.6  , Distance 016.0, Time out
+2021-01-27 17:59:53,534 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:01,353 - INFO - Env 07, Goal (006.9, 004.0), Episode 00007, step 152, Reward 15.9 , Distance 015.9, Time out
+2021-01-27 18:00:09,441 - INFO - Env 05, Goal (006.9, -04.0), Episode 00007, step 152, Reward 15.1 , Distance 015.9, Time out
+2021-01-27 18:00:10,004 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00007, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:00:10,611 - INFO - Env 08, Goal (004.0, 006.9), Episode 00007, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:10,617 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00007, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:00:11,217 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00008, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:12,025 - INFO - Env 06, Goal (008.0, 000.0), Episode 00007, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:12,025 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00007, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:12,026 - INFO - Env 03, Goal (000.0, -08.0), Episode 00007, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:00:12,026 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00007, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:12,026 - INFO - Env 09, Goal (000.0, 008.0), Episode 00007, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:00:12,026 - INFO - Env 04, Goal (004.0, -06.9), Episode 00007, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:00:19,811 - INFO - Env 07, Goal (006.9, 004.0), Episode 00008, step 152, Reward 15.9 , Distance 015.9, Time out
+2021-01-27 18:00:27,934 - INFO - Env 05, Goal (006.9, -04.0), Episode 00008, step 152, Reward 15.7 , Distance 016.0, Time out
+2021-01-27 18:00:28,523 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00008, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:00:29,120 - INFO - Env 08, Goal (004.0, 006.9), Episode 00008, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:29,126 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00008, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:00:29,729 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00009, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:00:30,537 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00008, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:30,537 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00008, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:00:30,537 - INFO - Env 09, Goal (000.0, 008.0), Episode 00008, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:30,537 - INFO - Env 03, Goal (000.0, -08.0), Episode 00008, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:00:30,542 - INFO - Env 06, Goal (008.0, 000.0), Episode 00008, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 18:00:30,542 - INFO - Env 04, Goal (004.0, -06.9), Episode 00008, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:00:38,249 - INFO - Env 09, Goal (000.0, 008.0), Episode 00009, step 073, Reward 0.5  , Distance 015.9, Crashed
+2021-01-27 18:00:38,786 - INFO - Env 07, Goal (006.9, 004.0), Episode 00009, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:46,502 - INFO - Env 05, Goal (006.9, -04.0), Episode 00009, step 152, Reward 15.3 , Distance 016.0, Time out
+2021-01-27 18:00:47,103 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00009, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:47,694 - INFO - Env 08, Goal (004.0, 006.9), Episode 00009, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:00:47,698 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00009, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:00:48,338 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00010, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:00:49,107 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00009, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:49,107 - INFO - Env 03, Goal (000.0, -08.0), Episode 00009, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:00:49,107 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00009, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:00:49,107 - INFO - Env 06, Goal (008.0, 000.0), Episode 00009, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 18:00:49,108 - INFO - Env 04, Goal (004.0, -06.9), Episode 00009, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:00:57,223 - INFO - Env 09, Goal (000.0, 008.0), Episode 00010, step 152, Reward 15.6 , Distance 015.9, Time out
+2021-01-27 18:00:57,832 - INFO - Env 07, Goal (006.9, 004.0), Episode 00010, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:05,533 - INFO - Env 05, Goal (006.9, -04.0), Episode 00010, step 152, Reward 15.3 , Distance 015.9, Time out
+2021-01-27 18:01:06,086 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00010, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:06,732 - INFO - Env 08, Goal (004.0, 006.9), Episode 00010, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:01:06,739 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00010, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:07,332 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00011, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:08,099 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00010, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:01:08,099 - INFO - Env 03, Goal (000.0, -08.0), Episode 00010, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:01:08,099 - INFO - Env 06, Goal (008.0, 000.0), Episode 00010, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:01:08,099 - INFO - Env 04, Goal (004.0, -06.9), Episode 00010, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:01:08,102 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00010, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:01:16,123 - INFO - Env 09, Goal (000.0, 008.0), Episode 00011, step 152, Reward 16.1 , Distance 016.0, Time out
+2021-01-27 18:01:16,695 - INFO - Env 07, Goal (006.9, 004.0), Episode 00011, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 18:01:24,412 - INFO - Env 05, Goal (006.9, -04.0), Episode 00011, step 152, Reward 15.7 , Distance 015.9, Time out
+2021-01-27 18:01:25,019 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00011, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:25,631 - INFO - Env 08, Goal (004.0, 006.9), Episode 00011, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 18:01:25,637 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00011, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:01:26,233 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00012, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:27,031 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00011, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 18:01:27,031 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00011, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 18:01:27,031 - INFO - Env 06, Goal (008.0, 000.0), Episode 00011, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 18:01:27,032 - INFO - Env 03, Goal (000.0, -08.0), Episode 00011, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:01:27,032 - INFO - Env 04, Goal (004.0, -06.9), Episode 00011, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 18:01:35,104 - INFO - Env 09, Goal (000.0, 008.0), Episode 00012, step 152, Reward 16.0 , Distance 015.9, Time out
+2021-01-27 18:01:35,706 - INFO - Env 07, Goal (006.9, 004.0), Episode 00012, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:43,804 - INFO - Env 05, Goal (006.9, -04.0), Episode 00012, step 152, Reward 15.3 , Distance 015.9, Time out
+2021-01-27 18:01:44,412 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00012, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:45,011 - INFO - Env 08, Goal (004.0, 006.9), Episode 00012, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:01:45,018 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00012, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:01:45,620 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00013, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 18:01:46,433 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00012, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 18:01:46,434 - INFO - Env 03, Goal (000.0, -08.0), Episode 00012, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 18:01:46,434 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00012, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:01:46,433 - INFO - Env 04, Goal (004.0, -06.9), Episode 00012, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 18:01:46,433 - INFO - Env 06, Goal (008.0, 000.0), Episode 00012, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:01:54,121 - INFO - Env 09, Goal (000.0, 008.0), Episode 00013, step 152, Reward 15.3 , Distance 015.9, Time out
+2021-01-27 18:01:54,718 - INFO - Env 07, Goal (006.9, 004.0), Episode 00013, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:02:02,816 - INFO - Env 05, Goal (006.9, -04.0), Episode 00013, step 152, Reward 15.2 , Distance 015.9, Time out
+2021-01-27 18:02:03,422 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00013, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:02:04,031 - INFO - Env 08, Goal (004.0, 006.9), Episode 00013, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:02:04,039 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00013, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:02:04,594 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00014, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:02:05,397 - INFO - Env 03, Goal (000.0, -08.0), Episode 00013, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 18:02:05,397 - INFO - Env 06, Goal (008.0, 000.0), Episode 00013, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:02:05,397 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00013, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 18:02:05,398 - INFO - Env 04, Goal (004.0, -06.9), Episode 00013, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:02:05,398 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00013, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:02:13,112 - INFO - Env 09, Goal (000.0, 008.0), Episode 00014, step 152, Reward 15.6 , Distance 015.9, Time out
+2021-01-27 18:02:13,717 - INFO - Env 07, Goal (006.9, 004.0), Episode 00014, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:02:21,830 - INFO - Env 05, Goal (006.9, -04.0), Episode 00014, step 152, Reward 14.9 , Distance 016.0, Time out
+2021-01-27 18:02:22,436 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00014, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:02:22,992 - INFO - Env 08, Goal (004.0, 006.9), Episode 00014, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:02:22,996 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00014, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:02:23,587 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00015, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:02:24,437 - INFO - Env 06, Goal (008.0, 000.0), Episode 00014, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:02:24,437 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00014, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:02:24,437 - INFO - Env 03, Goal (000.0, -08.0), Episode 00014, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:02:24,437 - INFO - Env 04, Goal (004.0, -06.9), Episode 00014, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:02:24,439 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00014, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 18:03:42,560 - INFO - ####################################
+2021-01-27 18:03:42,561 - INFO - ############Loading Model###########
+2021-01-27 18:03:42,562 - INFO - ####################################
+2021-01-27 18:03:51,012 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 075, Reward 0.3  , Distance 016.0, Crashed
+2021-01-27 18:04:51,679 - INFO - #####################################
+2021-01-27 18:04:51,680 - INFO - ############Start Training###########
+2021-01-27 18:04:51,680 - INFO - #####################################
+2021-01-27 18:05:02,939 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 104, Reward -18.2, Distance 016.0, Crashed
+2021-01-27 18:05:08,671 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 152, Reward 6.6  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 152, Reward 6.5  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 152, Reward 1.3  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 152, Reward 5.8  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 152, Reward 7.6  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 152, Reward 3.9  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 152, Reward 7.1  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 152, Reward 4.9  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 152, Reward 3.6  , Distance 016.0, Time out
+2021-01-27 18:05:08,671 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 152, Reward 4.0  , Distance 016.0, Time out
+2021-01-27 18:05:08,672 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 152, Reward 4.8  , Distance 016.0, Time out
+2021-01-27 18:05:14,539 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 055, Reward -9.1 , Distance 015.9, Crashed
+2021-01-27 18:05:19,944 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 152, Reward 2.2  , Distance 015.9, Time out
+2021-01-27 18:05:25,578 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 048, Reward -9.6 , Distance 016.0, Crashed
+2021-01-27 18:05:26,137 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:05:26,137 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:05:26,137 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 18:05:26,137 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:05:26,137 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:05:26,137 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:05:26,137 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:05:26,137 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:05:26,137 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:05:26,141 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 152, Reward 0.0  , Distance 016.0, Time out
+2021-01-27 18:05:32,070 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:05:39,864 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 124, Reward -7.6 , Distance 016.0, Crashed
+2021-01-27 18:05:43,057 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:05:43,666 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:05:43,666 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:05:43,666 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00003, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:05:43,666 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:05:49,573 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 152, Reward 5.7  , Distance 015.9, Time out
+2021-01-27 18:05:57,357 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00004, step 152, Reward 6.9  , Distance 015.9, Time out
+2021-01-27 18:06:00,556 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 152, Reward 3.0  , Distance 016.0, Time out
+2021-01-27 18:06:01,115 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:06:01,165 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:06:01,166 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:06:01,166 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 152, Reward 0.0  , Distance 016.0, Time out
+2021-01-27 18:06:01,166 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00004, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:06:01,166 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 18:06:01,166 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:06:01,166 - INFO - Env 06, Goal (008.0, 000.0), Episode 00004, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:06:01,166 - INFO - Env 08, Goal (004.0, 006.9), Episode 00004, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:06:07,452 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 152, Reward 3.6  , Distance 016.0, Time out
+2021-01-27 18:06:14,865 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00005, step 152, Reward 2.2  , Distance 015.9, Time out
+2021-01-27 18:06:18,066 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 152, Reward 3.6  , Distance 016.0, Time out
+2021-01-27 18:06:18,665 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:06:18,665 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:06:18,665 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:06:18,665 - INFO - Env 06, Goal (008.0, 000.0), Episode 00005, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:06:18,665 - INFO - Env 05, Goal (006.9, -04.0), Episode 00005, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:06:18,665 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00005, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:06:18,665 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:06:18,665 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00005, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 18:06:18,666 - INFO - Env 08, Goal (004.0, 006.9), Episode 00005, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:06:24,935 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 152, Reward 7.5  , Distance 016.0, Time out
+2021-01-27 18:06:32,374 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00006, step 152, Reward 3.5  , Distance 015.9, Time out
+2021-01-27 18:06:35,933 - INFO - Env 04, Goal (004.0, -06.9), Episode 00007, step 152, Reward 4.1  , Distance 015.9, Time out
+2021-01-27 18:06:36,537 - INFO - Env 05, Goal (006.9, -04.0), Episode 00006, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:06:36,537 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:06:36,537 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 18:06:36,537 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:06:36,537 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00006, step 152, Reward -0.1 , Distance 016.0, Time out
+2021-01-27 18:06:36,537 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:06:36,537 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00006, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:06:36,538 - INFO - Env 06, Goal (008.0, 000.0), Episode 00006, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:06:36,541 - INFO - Env 08, Goal (004.0, 006.9), Episode 00006, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:06:42,455 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00007, step 152, Reward 6.3  , Distance 016.0, Time out
+2021-01-27 18:06:50,270 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00007, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:06:53,468 - INFO - Env 04, Goal (004.0, -06.9), Episode 00008, step 152, Reward 2.3  , Distance 015.9, Time out
+2021-01-27 18:06:54,020 - INFO - Env 07, Goal (006.9, 004.0), Episode 00007, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:06:54,020 - INFO - Env 09, Goal (000.0, 008.0), Episode 00007, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:06:54,020 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00007, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 18:06:54,020 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00007, step 152, Reward -0.0 , Distance 016.0, Time out
+2021-01-27 18:06:54,020 - INFO - Env 06, Goal (008.0, 000.0), Episode 00007, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:06:54,020 - INFO - Env 03, Goal (000.0, -08.0), Episode 00007, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:06:54,020 - INFO - Env 05, Goal (006.9, -04.0), Episode 00007, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:06:54,020 - INFO - Env 08, Goal (004.0, 006.9), Episode 00007, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:06:54,020 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00007, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:54:25,339 - INFO - #####################################
+2021-01-27 18:54:25,391 - INFO - ############Start Training###########
+2021-01-27 18:54:25,392 - INFO - #####################################
+2021-01-27 18:54:37,197 - INFO - ########################## model saved when update 50 times#########################
+2021-01-27 18:54:37,201 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 096, Reward -5.0 , Distance 016.0, Crashed
+2021-01-27 18:54:44,223 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 152, Reward 6.0  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 152, Reward 7.0  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 152, Reward 6.2  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 152, Reward 7.3  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 152, Reward 5.9  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 152, Reward 6.5  , Distance 016.0, Time out
+2021-01-27 18:54:44,223 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 152, Reward 6.4  , Distance 016.0, Time out
+2021-01-27 18:54:44,224 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:54:44,225 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:54:44,225 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:54:52,421 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 078, Reward -7.1 , Distance 016.0, Crashed
+2021-01-27 18:54:54,725 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-27 18:55:01,325 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 18:55:01,325 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 152, Reward 6.7  , Distance 015.9, Time out
+2021-01-27 18:55:01,325 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 152, Reward 8.3  , Distance 015.9, Time out
+2021-01-27 18:55:01,325 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 152, Reward 8.3  , Distance 016.0, Time out
+2021-01-27 18:55:01,325 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 152, Reward 5.6  , Distance 015.9, Time out
+2021-01-27 18:55:01,325 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 152, Reward 7.2  , Distance 016.0, Time out
+2021-01-27 18:55:01,326 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 152, Reward 7.8  , Distance 016.0, Time out
+2021-01-27 18:55:01,326 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 152, Reward 6.5  , Distance 016.0, Time out
+2021-01-27 18:55:01,326 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 152, Reward 8.6  , Distance 016.0, Time out
+2021-01-27 18:55:01,326 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 152, Reward 9.3  , Distance 015.9, Time out
+2021-01-27 18:55:09,499 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 152, Reward 9.3  , Distance 015.9, Time out
+2021-01-27 18:55:12,310 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 152, Reward 2.0  , Distance 016.0, Time out
+2021-01-27 18:55:18,425 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 152, Reward 8.3  , Distance 016.0, Time out
+2021-01-27 18:55:18,425 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00003, step 152, Reward 5.7  , Distance 016.0, Time out
+2021-01-27 18:55:18,425 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 152, Reward 6.1  , Distance 015.9, Time out
+2021-01-27 18:55:18,425 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 152, Reward 8.1  , Distance 016.0, Time out
+2021-01-27 18:55:18,425 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:55:18,425 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 152, Reward 5.6  , Distance 015.9, Time out
+2021-01-27 18:55:18,426 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:55:18,426 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 152, Reward 7.1  , Distance 016.0, Time out
+2021-01-27 18:55:18,426 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 152, Reward 7.6  , Distance 016.0, Time out
+2021-01-27 18:55:18,426 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:55:27,129 - INFO - Env 08, Goal (004.0, 006.9), Episode 00004, step 152, Reward 8.9  , Distance 016.0, Time out
+2021-01-27 18:55:29,419 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00004, step 152, Reward 2.1  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 152, Reward 7.6  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 152, Reward 4.9  , Distance 016.0, Time out
+2021-01-27 18:55:35,526 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 152, Reward 7.5  , Distance 016.0, Time out
+2021-01-27 18:55:35,526 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00004, step 152, Reward 5.4  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 152, Reward 5.8  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 152, Reward 6.8  , Distance 016.0, Time out
+2021-01-27 18:55:35,526 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 152, Reward 5.8  , Distance 016.0, Time out
+2021-01-27 18:55:35,526 - INFO - Env 06, Goal (008.0, 000.0), Episode 00004, step 152, Reward 6.4  , Distance 015.9, Time out
+2021-01-27 18:55:35,526 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 152, Reward 6.7  , Distance 015.9, Time out
+2021-01-27 18:55:44,222 - INFO - Env 08, Goal (004.0, 006.9), Episode 00005, step 152, Reward 9.4  , Distance 015.9, Time out
+2021-01-27 18:55:46,502 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00005, step 152, Reward 1.8  , Distance 015.9, Time out
+2021-01-27 18:55:52,621 - INFO - Env 06, Goal (008.0, 000.0), Episode 00005, step 152, Reward 7.0  , Distance 016.0, Time out
+2021-01-27 18:55:52,622 - INFO - Env 05, Goal (006.9, -04.0), Episode 00005, step 152, Reward 6.4  , Distance 015.9, Time out
+2021-01-27 18:55:52,621 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 152, Reward 6.7  , Distance 015.9, Time out
+2021-01-27 18:55:52,622 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00005, step 152, Reward 6.9  , Distance 016.0, Time out
+2021-01-27 18:55:52,622 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 152, Reward 7.2  , Distance 015.9, Time out
+2021-01-27 18:55:52,622 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:55:52,622 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00005, step 152, Reward 7.6  , Distance 015.9, Time out
+2021-01-27 18:55:52,622 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 152, Reward 7.0  , Distance 016.0, Time out
+2021-01-27 18:55:52,623 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 152, Reward 6.0  , Distance 016.0, Time out
+2021-01-27 18:55:52,624 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 152, Reward 5.8  , Distance 015.9, Time out
+2021-01-27 18:56:01,333 - INFO - Env 08, Goal (004.0, 006.9), Episode 00006, step 152, Reward 7.2  , Distance 015.9, Time out
+2021-01-27 18:56:03,610 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00006, step 152, Reward 1.7  , Distance 016.0, Time out
+2021-01-27 18:56:10,235 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 152, Reward 6.6  , Distance 015.9, Time out
+2021-01-27 18:56:10,236 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 152, Reward 6.4  , Distance 015.9, Time out
+2021-01-27 18:56:10,236 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 152, Reward 7.5  , Distance 016.0, Time out
+2021-01-27 18:56:10,236 - INFO - Env 05, Goal (006.9, -04.0), Episode 00006, step 152, Reward 6.8  , Distance 015.9, Time out
+2021-01-27 18:56:10,237 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 152, Reward 6.8  , Distance 015.9, Time out
+2021-01-27 18:56:10,237 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00006, step 152, Reward 5.4  , Distance 016.0, Time out
+2021-01-27 18:56:10,237 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 152, Reward 6.6  , Distance 016.0, Time out
+2021-01-27 18:56:10,237 - INFO - Env 06, Goal (008.0, 000.0), Episode 00006, step 152, Reward 5.9  , Distance 015.9, Time out
+2021-01-27 18:56:10,238 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00006, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:56:10,240 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:56:18,412 - INFO - Env 05, Goal (006.9, -04.0), Episode 00007, step 078, Reward -5.7 , Distance 016.0, Crashed
+2021-01-27 18:56:18,413 - INFO - Env 08, Goal (004.0, 006.9), Episode 00007, step 152, Reward 10.4 , Distance 016.0, Time out
+2021-01-27 18:56:20,742 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00007, step 152, Reward 3.4  , Distance 016.0, Time out
+2021-01-27 18:56:27,287 - INFO - Env 07, Goal (006.9, 004.0), Episode 00007, step 152, Reward 6.2  , Distance 016.0, Time out
+2021-01-27 18:56:27,289 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00007, step 152, Reward 6.4  , Distance 016.0, Time out
+2021-01-27 18:56:27,289 - INFO - Env 09, Goal (000.0, 008.0), Episode 00007, step 152, Reward 7.8  , Distance 016.0, Time out
+2021-01-27 18:56:27,289 - INFO - Env 04, Goal (004.0, -06.9), Episode 00007, step 152, Reward 7.3  , Distance 015.9, Time out
+2021-01-27 18:56:27,289 - INFO - Env 06, Goal (008.0, 000.0), Episode 00007, step 152, Reward 7.1  , Distance 015.9, Time out
+2021-01-27 18:56:27,292 - INFO - Env 03, Goal (000.0, -08.0), Episode 00007, step 152, Reward 8.2  , Distance 015.9, Time out
+2021-01-27 18:56:27,293 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00007, step 152, Reward 7.8  , Distance 016.0, Time out
+2021-01-27 18:56:27,297 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00007, step 152, Reward 7.5  , Distance 016.0, Time out
+2021-01-27 18:56:27,297 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00007, step 152, Reward 7.6  , Distance 015.9, Time out
+2021-01-27 18:56:35,314 - INFO - Env 06, Goal (008.0, 000.0), Episode 00008, step 076, Reward -4.9 , Distance 015.9, Crashed
+2021-01-27 18:56:36,016 - INFO - Env 08, Goal (004.0, 006.9), Episode 00008, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:56:36,016 - INFO - Env 05, Goal (006.9, -04.0), Episode 00008, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:56:38,789 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00008, step 152, Reward 1.9  , Distance 015.9, Time out
+2021-01-27 18:56:44,922 - INFO - Env 03, Goal (000.0, -08.0), Episode 00008, step 152, Reward 6.7  , Distance 015.9, Time out
+2021-01-27 18:56:44,922 - INFO - Env 09, Goal (000.0, 008.0), Episode 00008, step 152, Reward 8.8  , Distance 016.0, Time out
+2021-01-27 18:56:44,923 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00008, step 152, Reward 6.6  , Distance 015.9, Time out
+2021-01-27 18:56:44,923 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00008, step 152, Reward 6.0  , Distance 015.9, Time out
+2021-01-27 18:56:44,923 - INFO - Env 07, Goal (006.9, 004.0), Episode 00008, step 152, Reward 6.9  , Distance 015.9, Time out
+2021-01-27 18:56:44,923 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00008, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:56:44,923 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00008, step 152, Reward 8.3  , Distance 015.9, Time out
+2021-01-27 18:56:44,925 - INFO - Env 04, Goal (004.0, -06.9), Episode 00008, step 152, Reward 8.2  , Distance 015.9, Time out
+2021-01-27 18:56:53,419 - INFO - Env 06, Goal (008.0, 000.0), Episode 00009, step 152, Reward 10.9 , Distance 015.9, Time out
+2021-01-27 18:56:54,120 - INFO - Env 05, Goal (006.9, -04.0), Episode 00009, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:56:54,123 - INFO - Env 08, Goal (004.0, 006.9), Episode 00009, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 18:56:56,441 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00009, step 152, Reward 1.7  , Distance 016.0, Time out
+2021-01-27 18:57:02,496 - INFO - Env 07, Goal (006.9, 004.0), Episode 00009, step 152, Reward 6.3  , Distance 016.0, Time out
+2021-01-27 18:57:02,496 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00009, step 152, Reward 6.4  , Distance 016.0, Time out
+2021-01-27 18:57:02,496 - INFO - Env 03, Goal (000.0, -08.0), Episode 00009, step 152, Reward 7.3  , Distance 016.0, Time out
+2021-01-27 18:57:02,496 - INFO - Env 09, Goal (000.0, 008.0), Episode 00009, step 152, Reward 6.0  , Distance 016.0, Time out
+2021-01-27 18:57:02,497 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00009, step 152, Reward 7.5  , Distance 016.0, Time out
+2021-01-27 18:57:02,497 - INFO - Env 04, Goal (004.0, -06.9), Episode 00009, step 152, Reward 6.9  , Distance 015.9, Time out
+2021-01-27 18:57:02,497 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00009, step 152, Reward 8.2  , Distance 016.0, Time out
+2021-01-27 18:57:02,497 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00009, step 152, Reward 9.0  , Distance 016.0, Time out
+2021-01-27 18:57:11,025 - INFO - Env 06, Goal (008.0, 000.0), Episode 00010, step 152, Reward 11.1 , Distance 016.0, Time out
+2021-01-27 18:57:11,714 - INFO - Env 05, Goal (006.9, -04.0), Episode 00010, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:57:11,714 - INFO - Env 08, Goal (004.0, 006.9), Episode 00010, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:57:14,036 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00010, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-27 18:57:20,102 - INFO - Env 03, Goal (000.0, -08.0), Episode 00010, step 152, Reward 5.8  , Distance 015.9, Time out
+2021-01-27 18:57:20,102 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00010, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:57:20,102 - INFO - Env 09, Goal (000.0, 008.0), Episode 00010, step 152, Reward 6.6  , Distance 015.9, Time out
+2021-01-27 18:57:20,102 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00010, step 152, Reward 7.1  , Distance 015.9, Time out
+2021-01-27 18:57:20,102 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00010, step 152, Reward 7.3  , Distance 016.0, Time out
+2021-01-27 18:57:20,102 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00010, step 152, Reward 8.9  , Distance 016.0, Time out
+2021-01-27 18:57:20,106 - INFO - Env 07, Goal (006.9, 004.0), Episode 00010, step 152, Reward 6.5  , Distance 015.9, Time out
+2021-01-27 18:57:20,106 - INFO - Env 04, Goal (004.0, -06.9), Episode 00010, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:57:28,616 - INFO - Env 06, Goal (008.0, 000.0), Episode 00011, step 152, Reward 11.4 , Distance 015.9, Time out
+2021-01-27 18:57:29,321 - INFO - Env 05, Goal (006.9, -04.0), Episode 00011, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:57:29,324 - INFO - Env 08, Goal (004.0, 006.9), Episode 00011, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:57:31,631 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00011, step 152, Reward 1.7  , Distance 015.9, Time out
+2021-01-27 18:57:37,716 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00011, step 152, Reward 5.5  , Distance 015.9, Time out
+2021-01-27 18:57:37,716 - INFO - Env 09, Goal (000.0, 008.0), Episode 00011, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 18:57:37,717 - INFO - Env 07, Goal (006.9, 004.0), Episode 00011, step 152, Reward 7.0  , Distance 016.0, Time out
+2021-01-27 18:57:37,718 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00011, step 152, Reward 7.5  , Distance 015.9, Time out
+2021-01-27 18:57:37,719 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00011, step 152, Reward 6.9  , Distance 015.9, Time out
+2021-01-27 18:57:37,721 - INFO - Env 04, Goal (004.0, -06.9), Episode 00011, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 18:57:37,721 - INFO - Env 03, Goal (000.0, -08.0), Episode 00011, step 152, Reward 8.2  , Distance 016.0, Time out
+2021-01-27 18:57:37,722 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00011, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:57:46,210 - INFO - Env 06, Goal (008.0, 000.0), Episode 00012, step 152, Reward 9.8  , Distance 015.9, Time out
+2021-01-27 18:57:46,918 - INFO - Env 05, Goal (006.9, -04.0), Episode 00012, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 18:57:46,918 - INFO - Env 08, Goal (004.0, 006.9), Episode 00012, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:57:49,233 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00012, step 152, Reward 2.8  , Distance 016.0, Time out
+2021-01-27 18:57:55,831 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00012, step 152, Reward 6.3  , Distance 016.0, Time out
+2021-01-27 18:57:55,831 - INFO - Env 07, Goal (006.9, 004.0), Episode 00012, step 152, Reward 8.3  , Distance 016.0, Time out
+2021-01-27 18:57:55,831 - INFO - Env 09, Goal (000.0, 008.0), Episode 00012, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 18:57:55,831 - INFO - Env 03, Goal (000.0, -08.0), Episode 00012, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:57:55,831 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00012, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 18:57:55,831 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00012, step 152, Reward 6.2  , Distance 015.9, Time out
+2021-01-27 18:57:55,831 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00012, step 152, Reward 8.1  , Distance 015.9, Time out
+2021-01-27 18:57:55,831 - INFO - Env 04, Goal (004.0, -06.9), Episode 00012, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 18:58:03,793 - INFO - Env 06, Goal (008.0, 000.0), Episode 00013, step 152, Reward 10.6 , Distance 016.0, Time out
+2021-01-27 18:58:04,490 - INFO - Env 05, Goal (006.9, -04.0), Episode 00013, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:58:04,490 - INFO - Env 08, Goal (004.0, 006.9), Episode 00013, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 18:58:06,809 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00013, step 152, Reward 2.7  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 09, Goal (000.0, 008.0), Episode 00013, step 152, Reward 8.3  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 07, Goal (006.9, 004.0), Episode 00013, step 152, Reward 7.4  , Distance 016.0, Time out
+2021-01-27 18:58:13,391 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00013, step 152, Reward 8.2  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 03, Goal (000.0, -08.0), Episode 00013, step 152, Reward 7.4  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00013, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 04, Goal (004.0, -06.9), Episode 00013, step 152, Reward 8.6  , Distance 015.9, Time out
+2021-01-27 18:58:13,391 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00013, step 152, Reward 7.9  , Distance 016.0, Time out
+2021-01-27 18:58:13,392 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00013, step 152, Reward 7.3  , Distance 016.0, Time out
+2021-01-27 18:58:20,688 - INFO - Env 03, Goal (000.0, -08.0), Episode 00014, step 069, Reward -6.0 , Distance 016.0, Crashed
+2021-01-27 18:58:21,930 - INFO - Env 06, Goal (008.0, 000.0), Episode 00014, step 152, Reward 1.2  , Distance 015.9, Time out
+2021-01-27 18:58:22,590 - INFO - Env 05, Goal (006.9, -04.0), Episode 00014, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:58:22,594 - INFO - Env 08, Goal (004.0, 006.9), Episode 00014, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 18:58:25,420 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00014, step 152, Reward 1.3  , Distance 016.0, Time out
+2021-01-27 18:58:31,594 - INFO - Env 07, Goal (006.9, 004.0), Episode 00014, step 152, Reward 6.7  , Distance 016.0, Time out
+2021-01-27 18:58:31,594 - INFO - Env 09, Goal (000.0, 008.0), Episode 00014, step 152, Reward 7.9  , Distance 016.0, Time out
+2021-01-27 18:58:31,594 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00014, step 152, Reward 8.0  , Distance 015.9, Time out
+2021-01-27 18:58:31,595 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00014, step 152, Reward 9.6  , Distance 016.0, Time out
+2021-01-27 18:58:31,595 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00014, step 152, Reward 7.8  , Distance 016.0, Time out
+2021-01-27 18:58:31,596 - INFO - Env 04, Goal (004.0, -06.9), Episode 00014, step 152, Reward 6.8  , Distance 016.0, Time out
+2021-01-27 18:58:31,597 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00014, step 152, Reward 8.4  , Distance 015.9, Time out
+2021-01-27 18:58:39,434 - INFO - Env 03, Goal (000.0, -08.0), Episode 00015, step 152, Reward 10.9 , Distance 016.0, Time out
+2021-01-27 18:58:40,606 - INFO - Env 06, Goal (008.0, 000.0), Episode 00015, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 18:58:41,320 - INFO - Env 05, Goal (006.9, -04.0), Episode 00015, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:58:41,320 - INFO - Env 08, Goal (004.0, 006.9), Episode 00015, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:58:43,638 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00015, step 152, Reward 3.4  , Distance 015.9, Time out
+2021-01-27 18:58:49,599 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00015, step 151, Reward -7.1 , Distance 015.9, Crashed
+2021-01-27 18:58:49,600 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00015, step 151, Reward -7.2 , Distance 015.9, Crashed
+2021-01-27 18:58:50,217 - INFO - Env 07, Goal (006.9, 004.0), Episode 00015, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:58:50,217 - INFO - Env 09, Goal (000.0, 008.0), Episode 00015, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 18:58:50,217 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00015, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:58:50,217 - INFO - Env 04, Goal (004.0, -06.9), Episode 00015, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:58:50,217 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00015, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:58:57,994 - INFO - Env 03, Goal (000.0, -08.0), Episode 00016, step 152, Reward 9.0  , Distance 015.9, Time out
+2021-01-27 18:58:59,216 - INFO - Env 06, Goal (008.0, 000.0), Episode 00016, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 18:58:59,912 - INFO - Env 05, Goal (006.9, -04.0), Episode 00016, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 18:58:59,912 - INFO - Env 08, Goal (004.0, 006.9), Episode 00016, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:59:02,220 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00016, step 152, Reward 2.5  , Distance 015.9, Time out
+2021-01-27 18:59:08,216 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00016, step 152, Reward 6.5  , Distance 015.9, Time out
+2021-01-27 18:59:08,217 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00016, step 152, Reward 7.6  , Distance 015.9, Time out
+2021-01-27 18:59:08,831 - INFO - Env 07, Goal (006.9, 004.0), Episode 00016, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:59:08,831 - INFO - Env 09, Goal (000.0, 008.0), Episode 00016, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 18:59:08,832 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00016, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 18:59:08,833 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00016, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:59:08,833 - INFO - Env 04, Goal (004.0, -06.9), Episode 00016, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:59:16,607 - INFO - Env 03, Goal (000.0, -08.0), Episode 00017, step 152, Reward 9.1  , Distance 016.0, Time out
+2021-01-27 18:59:17,806 - INFO - Env 06, Goal (008.0, 000.0), Episode 00017, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 18:59:18,488 - INFO - Env 05, Goal (006.9, -04.0), Episode 00017, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 18:59:18,494 - INFO - Env 08, Goal (004.0, 006.9), Episode 00017, step 152, Reward 0.6  , Distance 016.0, Time out
+2021-01-27 18:59:20,803 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00017, step 152, Reward 3.5  , Distance 016.0, Time out
+2021-01-27 18:59:27,232 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00017, step 152, Reward 9.4  , Distance 015.9, Time out
+2021-01-27 18:59:27,233 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00017, step 152, Reward 8.1  , Distance 016.0, Time out
+2021-01-27 18:59:27,792 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00017, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 18:59:27,792 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00017, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:59:27,792 - INFO - Env 07, Goal (006.9, 004.0), Episode 00017, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:59:27,792 - INFO - Env 09, Goal (000.0, 008.0), Episode 00017, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:59:27,792 - INFO - Env 04, Goal (004.0, -06.9), Episode 00017, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:59:35,125 - INFO - Env 03, Goal (000.0, -08.0), Episode 00018, step 152, Reward 8.9  , Distance 015.9, Time out
+2021-01-27 18:59:36,287 - INFO - Env 06, Goal (008.0, 000.0), Episode 00018, step 152, Reward 1.1  , Distance 015.9, Time out
+2021-01-27 18:59:37,002 - INFO - Env 05, Goal (006.9, -04.0), Episode 00018, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:59:37,002 - INFO - Env 08, Goal (004.0, 006.9), Episode 00018, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 18:59:39,317 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00018, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-27 18:59:45,691 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00018, step 152, Reward 8.8  , Distance 015.9, Time out
+2021-01-27 18:59:45,691 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00018, step 152, Reward 8.4  , Distance 015.9, Time out
+2021-01-27 18:59:46,292 - INFO - Env 07, Goal (006.9, 004.0), Episode 00018, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 18:59:46,292 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00018, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 18:59:46,292 - INFO - Env 09, Goal (000.0, 008.0), Episode 00018, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 18:59:46,292 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00018, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 18:59:46,292 - INFO - Env 04, Goal (004.0, -06.9), Episode 00018, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 18:59:53,594 - INFO - Env 03, Goal (000.0, -08.0), Episode 00019, step 152, Reward 9.8  , Distance 015.9, Time out
+2021-01-27 18:59:54,833 - INFO - Env 06, Goal (008.0, 000.0), Episode 00019, step 152, Reward 1.0  , Distance 015.9, Time out
+2021-01-27 18:59:55,511 - INFO - Env 05, Goal (006.9, -04.0), Episode 00019, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 18:59:55,512 - INFO - Env 08, Goal (004.0, 006.9), Episode 00019, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 18:59:57,833 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00019, step 152, Reward 2.3  , Distance 016.0, Time out
+2021-01-27 19:00:04,223 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00019, step 152, Reward 8.7  , Distance 016.0, Time out
+2021-01-27 19:00:04,223 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00019, step 152, Reward 8.3  , Distance 016.0, Time out
+2021-01-27 19:00:04,777 - INFO - Env 09, Goal (000.0, 008.0), Episode 00019, step 152, Reward 0.0  , Distance 016.0, Time out
+2021-01-27 19:00:04,777 - INFO - Env 07, Goal (006.9, 004.0), Episode 00019, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:00:04,777 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00019, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:00:04,777 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00019, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 19:00:04,779 - INFO - Env 04, Goal (004.0, -06.9), Episode 00019, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:00:12,097 - INFO - Env 03, Goal (000.0, -08.0), Episode 00020, step 152, Reward 9.1  , Distance 015.9, Time out
+2021-01-27 19:00:13,339 - INFO - Env 06, Goal (008.0, 000.0), Episode 00020, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 19:00:14,024 - INFO - Env 05, Goal (006.9, -04.0), Episode 00020, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:00:14,024 - INFO - Env 08, Goal (004.0, 006.9), Episode 00020, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:00:16,328 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00020, step 152, Reward 3.1  , Distance 015.9, Time out
+2021-01-27 19:00:22,330 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00020, step 152, Reward 6.9  , Distance 016.0, Time out
+2021-01-27 19:00:22,330 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00020, step 152, Reward 7.0  , Distance 015.9, Time out
+2021-01-27 19:00:22,885 - INFO - Env 09, Goal (000.0, 008.0), Episode 00020, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:00:22,885 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00020, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:00:22,885 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00020, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:00:22,885 - INFO - Env 07, Goal (006.9, 004.0), Episode 00020, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:00:22,885 - INFO - Env 04, Goal (004.0, -06.9), Episode 00020, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 19:00:30,609 - INFO - Env 03, Goal (000.0, -08.0), Episode 00021, step 152, Reward 10.3 , Distance 015.9, Time out
+2021-01-27 19:00:31,809 - INFO - Env 06, Goal (008.0, 000.0), Episode 00021, step 152, Reward 0.9  , Distance 015.9, Time out
+2021-01-27 19:00:32,492 - INFO - Env 05, Goal (006.9, -04.0), Episode 00021, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 19:00:32,493 - INFO - Env 08, Goal (004.0, 006.9), Episode 00021, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:00:34,801 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00021, step 152, Reward 2.2  , Distance 015.9, Time out
+2021-01-27 19:00:40,794 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00021, step 152, Reward 8.5  , Distance 016.0, Time out
+2021-01-27 19:00:40,797 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00021, step 152, Reward 6.8  , Distance 016.0, Time out
+2021-01-27 19:00:41,400 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00021, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:00:41,400 - INFO - Env 09, Goal (000.0, 008.0), Episode 00021, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:00:41,400 - INFO - Env 07, Goal (006.9, 004.0), Episode 00021, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:00:41,400 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00021, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:00:41,400 - INFO - Env 04, Goal (004.0, -06.9), Episode 00021, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:00:49,115 - INFO - Env 03, Goal (000.0, -08.0), Episode 00022, step 152, Reward 9.2  , Distance 015.9, Time out
+2021-01-27 19:00:50,309 - INFO - Env 06, Goal (008.0, 000.0), Episode 00022, step 152, Reward 1.6  , Distance 015.9, Time out
+2021-01-27 19:00:50,989 - INFO - Env 08, Goal (004.0, 006.9), Episode 00022, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:00:51,038 - INFO - Env 05, Goal (006.9, -04.0), Episode 00022, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:00:53,318 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00022, step 152, Reward 2.4  , Distance 015.9, Time out
+2021-01-27 19:00:59,307 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00022, step 152, Reward 7.9  , Distance 015.9, Time out
+2021-01-27 19:00:59,307 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00022, step 152, Reward 9.5  , Distance 016.0, Time out
+2021-01-27 19:00:59,923 - INFO - Env 09, Goal (000.0, 008.0), Episode 00022, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:00:59,923 - INFO - Env 07, Goal (006.9, 004.0), Episode 00022, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:00:59,923 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00022, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:00:59,923 - INFO - Env 04, Goal (004.0, -06.9), Episode 00022, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 19:00:59,923 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00022, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:01:07,587 - INFO - Env 03, Goal (000.0, -08.0), Episode 00023, step 152, Reward 9.5  , Distance 015.9, Time out
+2021-01-27 19:01:08,813 - INFO - Env 06, Goal (008.0, 000.0), Episode 00023, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 19:01:09,502 - INFO - Env 05, Goal (006.9, -04.0), Episode 00023, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:01:09,502 - INFO - Env 08, Goal (004.0, 006.9), Episode 00023, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:01:11,803 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00023, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-27 19:01:18,192 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00023, step 152, Reward 6.9  , Distance 016.0, Time out
+2021-01-27 19:01:18,192 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00023, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 19:01:18,791 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00023, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:01:18,791 - INFO - Env 09, Goal (000.0, 008.0), Episode 00023, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:01:18,791 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00023, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:01:18,791 - INFO - Env 07, Goal (006.9, 004.0), Episode 00023, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:01:18,791 - INFO - Env 04, Goal (004.0, -06.9), Episode 00023, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:01:26,139 - INFO - Env 03, Goal (000.0, -08.0), Episode 00024, step 152, Reward 10.0 , Distance 015.9, Time out
+2021-01-27 19:01:27,337 - INFO - Env 06, Goal (008.0, 000.0), Episode 00024, step 152, Reward 0.8  , Distance 016.0, Time out
+2021-01-27 19:01:28,036 - INFO - Env 08, Goal (004.0, 006.9), Episode 00024, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:01:28,037 - INFO - Env 05, Goal (006.9, -04.0), Episode 00024, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:01:30,345 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00024, step 152, Reward 3.0  , Distance 015.9, Time out
+2021-01-27 19:01:36,700 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00024, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 19:01:36,700 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00024, step 152, Reward 8.0  , Distance 015.9, Time out
+2021-01-27 19:01:37,306 - INFO - Env 07, Goal (006.9, 004.0), Episode 00024, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:01:37,306 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00024, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:01:37,306 - INFO - Env 09, Goal (000.0, 008.0), Episode 00024, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:01:37,306 - INFO - Env 04, Goal (004.0, -06.9), Episode 00024, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:01:37,307 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00024, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:01:44,631 - INFO - Env 03, Goal (000.0, -08.0), Episode 00025, step 152, Reward 10.2 , Distance 015.9, Time out
+2021-01-27 19:01:45,822 - INFO - Env 06, Goal (008.0, 000.0), Episode 00025, step 152, Reward 0.6  , Distance 016.0, Time out
+2021-01-27 19:01:46,500 - INFO - Env 08, Goal (004.0, 006.9), Episode 00025, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 19:01:46,500 - INFO - Env 05, Goal (006.9, -04.0), Episode 00025, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:01:49,242 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00025, step 152, Reward 3.4  , Distance 015.9, Time out
+2021-01-27 19:01:55,209 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00025, step 152, Reward 8.7  , Distance 015.9, Time out
+2021-01-27 19:01:55,209 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00025, step 152, Reward 6.9  , Distance 015.9, Time out
+2021-01-27 19:01:55,810 - INFO - Env 07, Goal (006.9, 004.0), Episode 00025, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:01:55,810 - INFO - Env 09, Goal (000.0, 008.0), Episode 00025, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:01:55,810 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00025, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:01:55,810 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00025, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 19:01:55,810 - INFO - Env 04, Goal (004.0, -06.9), Episode 00025, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:02:03,521 - INFO - Env 03, Goal (000.0, -08.0), Episode 00026, step 152, Reward 8.9  , Distance 015.9, Time out
+2021-01-27 19:02:04,723 - INFO - Env 06, Goal (008.0, 000.0), Episode 00026, step 152, Reward 1.1  , Distance 016.0, Time out
+2021-01-27 19:02:05,399 - INFO - Env 05, Goal (006.9, -04.0), Episode 00026, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:02:05,399 - INFO - Env 08, Goal (004.0, 006.9), Episode 00026, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 19:02:07,746 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00026, step 152, Reward 2.6  , Distance 015.9, Time out
+2021-01-27 19:02:13,713 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00026, step 152, Reward 7.9  , Distance 015.9, Time out
+2021-01-27 19:02:13,713 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00026, step 152, Reward 8.7  , Distance 016.0, Time out
+2021-01-27 19:02:14,320 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00026, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:02:14,320 - INFO - Env 07, Goal (006.9, 004.0), Episode 00026, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:14,320 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00026, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:02:14,320 - INFO - Env 09, Goal (000.0, 008.0), Episode 00026, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:02:14,320 - INFO - Env 04, Goal (004.0, -06.9), Episode 00026, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:20,226 - INFO - Env 04, Goal (004.0, -06.9), Episode 00027, step 051, Reward -7.7 , Distance 015.9, Crashed
+2021-01-27 19:02:22,510 - INFO - Env 03, Goal (000.0, -08.0), Episode 00027, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-27 19:02:23,707 - INFO - Env 06, Goal (008.0, 000.0), Episode 00027, step 152, Reward 1.4  , Distance 015.9, Time out
+2021-01-27 19:02:24,387 - INFO - Env 05, Goal (006.9, -04.0), Episode 00027, step 152, Reward 0.6  , Distance 016.0, Time out
+2021-01-27 19:02:24,438 - INFO - Env 08, Goal (004.0, 006.9), Episode 00027, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:02:26,719 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00027, step 152, Reward 3.1  , Distance 015.9, Time out
+2021-01-27 19:02:32,706 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00027, step 152, Reward 8.4  , Distance 015.9, Time out
+2021-01-27 19:02:32,706 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00027, step 152, Reward 7.5  , Distance 015.9, Time out
+2021-01-27 19:02:33,311 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00027, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 19:02:33,311 - INFO - Env 09, Goal (000.0, 008.0), Episode 00027, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:33,311 - INFO - Env 07, Goal (006.9, 004.0), Episode 00027, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:33,311 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00027, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:02:39,219 - INFO - Env 04, Goal (004.0, -06.9), Episode 00028, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 19:02:41,511 - INFO - Env 03, Goal (000.0, -08.0), Episode 00028, step 152, Reward 2.2  , Distance 016.0, Time out
+2021-01-27 19:02:42,691 - INFO - Env 06, Goal (008.0, 000.0), Episode 00028, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 19:02:43,387 - INFO - Env 05, Goal (006.9, -04.0), Episode 00028, step 152, Reward 0.5  , Distance 015.9, Time out
+2021-01-27 19:02:43,390 - INFO - Env 08, Goal (004.0, 006.9), Episode 00028, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:45,721 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00028, step 152, Reward 3.5  , Distance 015.9, Time out
+2021-01-27 19:02:52,090 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00028, step 152, Reward 8.5  , Distance 016.0, Time out
+2021-01-27 19:02:52,090 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00028, step 152, Reward 7.1  , Distance 015.9, Time out
+2021-01-27 19:02:52,684 - INFO - Env 09, Goal (000.0, 008.0), Episode 00028, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:02:52,684 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00028, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:02:52,684 - INFO - Env 07, Goal (006.9, 004.0), Episode 00028, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:02:52,684 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00028, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:02:58,206 - INFO - Env 04, Goal (004.0, -06.9), Episode 00029, step 152, Reward 7.7  , Distance 015.9, Time out
+2021-01-27 19:03:00,504 - INFO - Env 03, Goal (000.0, -08.0), Episode 00029, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-27 19:03:01,724 - INFO - Env 06, Goal (008.0, 000.0), Episode 00029, step 152, Reward 1.5  , Distance 016.0, Time out
+2021-01-27 19:03:02,398 - INFO - Env 05, Goal (006.9, -04.0), Episode 00029, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:03:02,398 - INFO - Env 08, Goal (004.0, 006.9), Episode 00029, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:03:04,711 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00029, step 152, Reward 2.0  , Distance 015.9, Time out
+2021-01-27 19:03:11,099 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00029, step 152, Reward 8.7  , Distance 015.9, Time out
+2021-01-27 19:03:11,099 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00029, step 152, Reward 7.2  , Distance 015.9, Time out
+2021-01-27 19:03:11,709 - INFO - Env 07, Goal (006.9, 004.0), Episode 00029, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:03:11,709 - INFO - Env 09, Goal (000.0, 008.0), Episode 00029, step 152, Reward 0.0  , Distance 016.0, Time out
+2021-01-27 19:03:11,709 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00029, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:03:11,710 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00029, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:03:17,226 - INFO - Env 04, Goal (004.0, -06.9), Episode 00030, step 152, Reward 6.4  , Distance 016.0, Time out
+2021-01-27 19:03:19,488 - INFO - Env 03, Goal (000.0, -08.0), Episode 00030, step 152, Reward 2.5  , Distance 015.9, Time out
+2021-01-27 19:03:20,709 - INFO - Env 06, Goal (008.0, 000.0), Episode 00030, step 152, Reward 1.2  , Distance 015.9, Time out
+2021-01-27 19:03:21,434 - INFO - Env 05, Goal (006.9, -04.0), Episode 00030, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:03:21,435 - INFO - Env 08, Goal (004.0, 006.9), Episode 00030, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:03:23,731 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00030, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-27 19:03:30,090 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00030, step 152, Reward 9.9  , Distance 016.0, Time out
+2021-01-27 19:03:30,091 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00030, step 152, Reward 9.6  , Distance 016.0, Time out
+2021-01-27 19:03:30,689 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00030, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:03:30,690 - INFO - Env 07, Goal (006.9, 004.0), Episode 00030, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:03:30,690 - INFO - Env 09, Goal (000.0, 008.0), Episode 00030, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:03:30,690 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00030, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:03:36,194 - INFO - Env 04, Goal (004.0, -06.9), Episode 00031, step 152, Reward 8.0  , Distance 016.0, Time out
+2021-01-27 19:03:38,495 - INFO - Env 03, Goal (000.0, -08.0), Episode 00031, step 152, Reward 3.3  , Distance 015.9, Time out
+2021-01-27 19:03:39,699 - INFO - Env 06, Goal (008.0, 000.0), Episode 00031, step 152, Reward 1.3  , Distance 015.9, Time out
+2021-01-27 19:03:40,394 - INFO - Env 05, Goal (006.9, -04.0), Episode 00031, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:03:40,394 - INFO - Env 08, Goal (004.0, 006.9), Episode 00031, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:03:43,046 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00031, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-27 19:03:48,991 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00031, step 152, Reward 8.1  , Distance 015.9, Time out
+2021-01-27 19:03:48,991 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00031, step 152, Reward 7.4  , Distance 015.9, Time out
+2021-01-27 19:03:49,600 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00031, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:03:49,600 - INFO - Env 09, Goal (000.0, 008.0), Episode 00031, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:03:49,600 - INFO - Env 07, Goal (006.9, 004.0), Episode 00031, step 152, Reward 0.2  , Distance 016.0, Time out
+2021-01-27 19:03:49,600 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00031, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:03:55,125 - INFO - Env 04, Goal (004.0, -06.9), Episode 00032, step 152, Reward 8.5  , Distance 015.9, Time out
+2021-01-27 19:03:57,816 - INFO - Env 03, Goal (000.0, -08.0), Episode 00032, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-27 19:03:59,019 - INFO - Env 06, Goal (008.0, 000.0), Episode 00032, step 152, Reward 1.2  , Distance 015.9, Time out
+2021-01-27 19:03:59,704 - INFO - Env 05, Goal (006.9, -04.0), Episode 00032, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:03:59,704 - INFO - Env 08, Goal (004.0, 006.9), Episode 00032, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:04:02,028 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00032, step 152, Reward 2.6  , Distance 016.0, Time out
+2021-01-27 19:04:07,991 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00032, step 152, Reward 9.3  , Distance 016.0, Time out
+2021-01-27 19:04:07,991 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00032, step 152, Reward 7.9  , Distance 016.0, Time out
+2021-01-27 19:04:08,593 - INFO - Env 09, Goal (000.0, 008.0), Episode 00032, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:04:08,593 - INFO - Env 07, Goal (006.9, 004.0), Episode 00032, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:04:08,593 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00032, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:04:08,593 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00032, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:04:14,518 - INFO - Env 04, Goal (004.0, -06.9), Episode 00033, step 152, Reward 8.9  , Distance 016.0, Time out
+2021-01-27 19:04:16,808 - INFO - Env 03, Goal (000.0, -08.0), Episode 00033, step 152, Reward 2.5  , Distance 015.9, Time out
+2021-01-27 19:04:17,990 - INFO - Env 06, Goal (008.0, 000.0), Episode 00033, step 152, Reward 1.2  , Distance 015.9, Time out
+2021-01-27 19:04:18,725 - INFO - Env 05, Goal (006.9, -04.0), Episode 00033, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:04:18,725 - INFO - Env 08, Goal (004.0, 006.9), Episode 00033, step 152, Reward 0.1  , Distance 016.0, Time out
+2021-01-27 19:04:21,015 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00033, step 152, Reward 3.0  , Distance 015.9, Time out
+2021-01-27 19:04:27,026 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00033, step 152, Reward 8.5  , Distance 016.0, Time out
+2021-01-27 19:04:27,026 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00033, step 152, Reward 7.9  , Distance 016.0, Time out
+2021-01-27 19:04:27,630 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00033, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:04:27,630 - INFO - Env 09, Goal (000.0, 008.0), Episode 00033, step 152, Reward -0.3 , Distance 015.9, Time out
+2021-01-27 19:04:27,630 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00033, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:04:27,630 - INFO - Env 07, Goal (006.9, 004.0), Episode 00033, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:04:33,515 - INFO - Env 04, Goal (004.0, -06.9), Episode 00034, step 152, Reward 8.7  , Distance 016.0, Time out
+2021-01-27 19:04:35,806 - INFO - Env 03, Goal (000.0, -08.0), Episode 00034, step 152, Reward 3.4  , Distance 015.9, Time out
+2021-01-27 19:04:36,998 - INFO - Env 06, Goal (008.0, 000.0), Episode 00034, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 19:04:37,722 - INFO - Env 05, Goal (006.9, -04.0), Episode 00034, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:04:37,723 - INFO - Env 08, Goal (004.0, 006.9), Episode 00034, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:04:40,016 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00034, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-27 19:04:46,008 - INFO - Env 06, Goal (008.0, 000.0), Episode 00035, step 072, Reward -6.9 , Distance 015.9, Crashed
+2021-01-27 19:04:46,911 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00034, step 152, Reward 0.7  , Distance 016.0, Time out
+2021-01-27 19:04:46,911 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00034, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 19:04:47,520 - INFO - Env 07, Goal (006.9, 004.0), Episode 00034, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 19:04:47,520 - INFO - Env 09, Goal (000.0, 008.0), Episode 00034, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:04:47,520 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00034, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:04:47,521 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00034, step 152, Reward 0.3  , Distance 016.0, Time out
+2021-01-27 19:04:53,004 - INFO - Env 04, Goal (004.0, -06.9), Episode 00035, step 152, Reward 7.8  , Distance 015.9, Time out
+2021-01-27 19:04:55,291 - INFO - Env 03, Goal (000.0, -08.0), Episode 00035, step 152, Reward 2.6  , Distance 015.9, Time out
+2021-01-27 19:04:56,709 - INFO - Env 08, Goal (004.0, 006.9), Episode 00035, step 152, Reward 1.5  , Distance 015.9, Time out
+2021-01-27 19:04:56,709 - INFO - Env 05, Goal (006.9, -04.0), Episode 00035, step 152, Reward 2.0  , Distance 016.0, Time out
+2021-01-27 19:04:59,029 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00035, step 152, Reward 3.4  , Distance 016.0, Time out
+2021-01-27 19:05:05,008 - INFO - Env 06, Goal (008.0, 000.0), Episode 00036, step 152, Reward 7.0  , Distance 016.0, Time out
+2021-01-27 19:05:05,906 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00035, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 19:05:05,907 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00035, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 19:05:06,512 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00035, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:05:06,512 - INFO - Env 07, Goal (006.9, 004.0), Episode 00035, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:05:06,512 - INFO - Env 09, Goal (000.0, 008.0), Episode 00035, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:05:06,513 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00035, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 19:05:12,010 - INFO - Env 04, Goal (004.0, -06.9), Episode 00036, step 152, Reward 7.6  , Distance 016.0, Time out
+2021-01-27 19:05:14,291 - INFO - Env 03, Goal (000.0, -08.0), Episode 00036, step 152, Reward 3.4  , Distance 015.9, Time out
+2021-01-27 19:05:15,700 - INFO - Env 05, Goal (006.9, -04.0), Episode 00036, step 152, Reward 1.7  , Distance 016.0, Time out
+2021-01-27 19:05:15,700 - INFO - Env 08, Goal (004.0, 006.9), Episode 00036, step 152, Reward 0.9  , Distance 015.9, Time out
+2021-01-27 19:05:18,415 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00036, step 152, Reward 2.8  , Distance 015.9, Time out
+2021-01-27 19:05:24,013 - INFO - Env 06, Goal (008.0, 000.0), Episode 00037, step 152, Reward 7.6  , Distance 016.0, Time out
+2021-01-27 19:05:24,912 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00036, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:05:24,912 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00036, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 19:05:25,526 - INFO - Env 09, Goal (000.0, 008.0), Episode 00036, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:05:25,526 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00036, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:05:25,526 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00036, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 19:05:25,528 - INFO - Env 07, Goal (006.9, 004.0), Episode 00036, step 152, Reward 0.1  , Distance 015.9, Time out
+2021-01-27 19:05:31,090 - INFO - Env 04, Goal (004.0, -06.9), Episode 00037, step 152, Reward 7.1  , Distance 015.9, Time out
+2021-01-27 19:05:33,408 - INFO - Env 03, Goal (000.0, -08.0), Episode 00037, step 152, Reward 2.4  , Distance 015.9, Time out
+2021-01-27 19:05:34,809 - INFO - Env 05, Goal (006.9, -04.0), Episode 00037, step 152, Reward 1.9  , Distance 016.0, Time out
+2021-01-27 19:05:34,809 - INFO - Env 08, Goal (004.0, 006.9), Episode 00037, step 152, Reward 1.5  , Distance 016.0, Time out
+2021-01-27 19:05:37,141 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00037, step 152, Reward 3.3  , Distance 015.9, Time out
+2021-01-27 19:05:42,738 - INFO - Env 06, Goal (008.0, 000.0), Episode 00038, step 152, Reward 6.8  , Distance 015.9, Time out
+2021-01-27 19:05:43,611 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00037, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:05:43,611 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00037, step 152, Reward 0.9  , Distance 016.0, Time out
+2021-01-27 19:05:44,216 - INFO - Env 07, Goal (006.9, 004.0), Episode 00037, step 152, Reward 0.0  , Distance 015.9, Time out
+2021-01-27 19:05:44,216 - INFO - Env 09, Goal (000.0, 008.0), Episode 00037, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:05:44,216 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00037, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:05:44,217 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00037, step 152, Reward -0.0 , Distance 015.9, Time out
+2021-01-27 19:05:50,131 - INFO - Env 04, Goal (004.0, -06.9), Episode 00038, step 152, Reward 9.5  , Distance 016.0, Time out
+2021-01-27 19:05:52,404 - INFO - Env 03, Goal (000.0, -08.0), Episode 00038, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-27 19:05:53,831 - INFO - Env 05, Goal (006.9, -04.0), Episode 00038, step 152, Reward 2.0  , Distance 015.9, Time out
+2021-01-27 19:05:53,831 - INFO - Env 08, Goal (004.0, 006.9), Episode 00038, step 152, Reward 0.6  , Distance 015.9, Time out
+2021-01-27 19:05:56,104 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00038, step 152, Reward 3.0  , Distance 015.9, Time out
+2021-01-27 19:06:01,708 - INFO - Env 06, Goal (008.0, 000.0), Episode 00039, step 152, Reward 8.3  , Distance 016.0, Time out
+2021-01-27 19:06:02,607 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00038, step 152, Reward 0.4  , Distance 015.9, Time out
+2021-01-27 19:06:02,607 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00038, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 19:06:03,218 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00038, step 152, Reward 0.2  , Distance 015.9, Time out
+2021-01-27 19:06:03,217 - INFO - Env 09, Goal (000.0, 008.0), Episode 00038, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 19:06:03,218 - INFO - Env 07, Goal (006.9, 004.0), Episode 00038, step 152, Reward -0.0 , Distance 016.0, Time out
+2021-01-27 19:06:03,218 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00038, step 152, Reward -0.2 , Distance 015.9, Time out
+2021-01-27 19:06:09,133 - INFO - Env 04, Goal (004.0, -06.9), Episode 00039, step 152, Reward 7.4  , Distance 015.9, Time out
+2021-01-27 19:06:11,402 - INFO - Env 03, Goal (000.0, -08.0), Episode 00039, step 152, Reward 2.8  , Distance 015.9, Time out
+2021-01-27 19:06:12,816 - INFO - Env 08, Goal (004.0, 006.9), Episode 00039, step 152, Reward 1.1  , Distance 015.9, Time out
+2021-01-27 19:06:12,818 - INFO - Env 05, Goal (006.9, -04.0), Episode 00039, step 152, Reward 0.8  , Distance 015.9, Time out
+2021-01-27 19:06:15,117 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00039, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-27 19:06:20,727 - INFO - Env 06, Goal (008.0, 000.0), Episode 00040, step 152, Reward 7.7  , Distance 016.0, Time out
+2021-01-27 19:06:21,605 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00039, step 152, Reward 0.3  , Distance 015.9, Time out
+2021-01-27 19:06:21,605 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00039, step 152, Reward 0.7  , Distance 015.9, Time out
+2021-01-27 19:06:22,209 - INFO - Env 07, Goal (006.9, 004.0), Episode 00039, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-27 19:06:22,209 - INFO - Env 09, Goal (000.0, 008.0), Episode 00039, step 152, Reward 0.5  , Distance 016.0, Time out
+2021-01-27 19:06:22,209 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00039, step 152, Reward -0.1 , Distance 015.9, Time out
+2021-01-27 19:06:22,209 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00039, step 152, Reward 0.4  , Distance 016.0, Time out
+2021-01-28 00:38:17,073 - INFO - #####################################
+2021-01-28 00:38:17,075 - INFO - ############Start Training###########
+2021-01-28 00:38:17,076 - INFO - #####################################
+2021-01-28 00:38:24,537 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 052, Reward -9.1 , Distance 016.0, Crashed
+2021-01-28 00:38:32,536 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 127, Reward -6.8 , Distance 016.0, Crashed
+2021-01-28 00:38:36,252 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 152, Reward 3.4  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 152, Reward 4.2  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 152, Reward 4.3  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:38:36,252 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-28 00:38:36,254 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 152, Reward 2.8  , Distance 016.0, Time out
+2021-01-28 00:38:36,255 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:38:41,859 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 152, Reward 7.4  , Distance 015.9, Time out
+2021-01-28 00:38:50,272 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 152, Reward 9.6  , Distance 015.9, Time out
+2021-01-28 00:38:53,247 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 152, Reward 3.4  , Distance 016.0, Time out
+2021-01-28 00:38:53,247 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-28 00:38:53,247 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-28 00:38:53,247 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 152, Reward 2.4  , Distance 016.0, Time out
+2021-01-28 00:38:53,248 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 152, Reward 2.3  , Distance 015.9, Time out
+2021-01-28 00:38:53,247 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 152, Reward 2.9  , Distance 015.9, Time out
+2021-01-28 00:38:53,247 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 152, Reward 3.9  , Distance 015.9, Time out
+2021-01-28 00:38:53,247 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-28 00:38:53,247 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 152, Reward 2.6  , Distance 015.9, Time out
+2021-01-28 00:38:53,255 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-28 00:38:58,877 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 152, Reward 6.4  , Distance 016.0, Time out
+2021-01-28 00:39:07,259 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 152, Reward 6.6  , Distance 016.0, Time out
+2021-01-28 00:39:10,226 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-28 00:39:10,258 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 152, Reward 3.5  , Distance 016.0, Time out
+2021-01-28 00:39:10,258 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 152, Reward 1.8  , Distance 016.0, Time out
+2021-01-28 00:39:10,259 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 152, Reward 2.2  , Distance 016.0, Time out
+2021-01-28 00:39:10,259 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00003, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-28 00:39:10,259 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 152, Reward 3.8  , Distance 016.0, Time out
+2021-01-28 00:39:10,259 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 152, Reward 2.3  , Distance 016.0, Time out
+2021-01-28 00:39:10,259 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 152, Reward 3.3  , Distance 015.9, Time out
+2021-01-28 00:39:10,260 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 152, Reward 1.9  , Distance 015.9, Time out
+2021-01-28 00:39:10,268 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-28 00:39:15,873 - INFO - Env 06, Goal (008.0, 000.0), Episode 00004, step 152, Reward 6.2  , Distance 016.0, Time out
+2021-01-28 00:39:24,255 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 152, Reward 9.5  , Distance 016.0, Time out
+2021-01-28 00:39:27,231 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 152, Reward 2.4  , Distance 015.9, Time out
+2021-01-28 00:39:27,231 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 152, Reward 2.4  , Distance 015.9, Time out
+2021-01-28 00:39:27,232 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 152, Reward 3.9  , Distance 016.0, Time out
+2021-01-28 00:39:27,232 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00004, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-28 00:39:27,232 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 152, Reward 3.2  , Distance 015.9, Time out
+2021-01-28 00:39:27,233 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 152, Reward 2.4  , Distance 016.0, Time out
+2021-01-28 00:39:27,235 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 152, Reward 3.1  , Distance 016.0, Time out
+2021-01-28 00:39:27,237 - INFO - Env 08, Goal (004.0, 006.9), Episode 00004, step 152, Reward 3.6  , Distance 016.0, Time out
+2021-01-28 00:39:27,237 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:39:27,243 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00004, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-28 00:39:33,250 - INFO - Env 06, Goal (008.0, 000.0), Episode 00005, step 152, Reward 5.6  , Distance 015.9, Time out
+2021-01-28 00:39:41,249 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 152, Reward 7.0  , Distance 015.9, Time out
+2021-01-28 00:39:44,240 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 152, Reward 3.0  , Distance 015.9, Time out
+2021-01-28 00:39:44,240 - INFO - Env 05, Goal (006.9, -04.0), Episode 00005, step 152, Reward 2.5  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 152, Reward 2.9  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00005, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00005, step 152, Reward 3.0  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 152, Reward 2.7  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 08, Goal (004.0, 006.9), Episode 00005, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-28 00:39:44,240 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 152, Reward 2.8  , Distance 015.9, Time out
+2021-01-28 00:39:44,240 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 152, Reward 2.7  , Distance 015.9, Time out
+2021-01-28 00:39:44,248 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00005, step 152, Reward 3.4  , Distance 015.9, Time out
+2021-01-28 00:39:50,275 - INFO - Env 06, Goal (008.0, 000.0), Episode 00006, step 152, Reward 6.0  , Distance 015.9, Time out
+2021-01-28 00:39:58,252 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 152, Reward 9.2  , Distance 015.9, Time out
+2021-01-28 00:40:01,637 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 152, Reward 2.9  , Distance 015.9, Time out
+2021-01-28 00:40:01,638 - INFO - Env 05, Goal (006.9, -04.0), Episode 00006, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:40:01,638 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00006, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-28 00:40:01,638 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00006, step 152, Reward 2.3  , Distance 016.0, Time out
+2021-01-28 00:40:01,638 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 152, Reward 3.9  , Distance 015.9, Time out
+2021-01-28 00:40:01,638 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 152, Reward 2.6  , Distance 016.0, Time out
+2021-01-28 00:40:01,640 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 152, Reward 3.4  , Distance 016.0, Time out
+2021-01-28 00:40:01,640 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 152, Reward 3.2  , Distance 016.0, Time out
+2021-01-28 00:40:01,640 - INFO - Env 08, Goal (004.0, 006.9), Episode 00006, step 152, Reward 3.3  , Distance 016.0, Time out
+2021-01-28 00:40:01,649 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00006, step 152, Reward 3.0  , Distance 015.9, Time out
+2021-01-28 21:53:54,790 - INFO - #####################################
+2021-01-28 21:53:54,822 - INFO - ############Start Training###########
+2021-01-28 21:53:54,823 - INFO - #####################################
+2021-01-28 21:54:06,079 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 093, Reward -4.3 , Distance 016.0, Crashed
+2021-01-28 22:02:13,339 - INFO - #####################################
+2021-01-28 22:02:14,060 - INFO - ############Start Training###########
+2021-01-28 22:02:14,060 - INFO - #####################################
+2021-01-28 22:02:22,508 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 060, Reward -7.9 , Distance 016.0, Crashed
+2021-01-28 22:02:33,104 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 154, Reward -4.1 , Distance 016.0, Time out
+2021-01-28 22:02:41,297 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 077, Reward -6.4 , Distance 015.9, Crashed
+2021-01-28 22:02:49,993 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 308, Reward -6.1 , Distance 016.0, Time out
+2021-01-28 22:02:58,881 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 157, Reward -5.6 , Distance 015.9, Time out
+2021-01-28 22:03:08,009 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 165, Reward -5.5 , Distance 015.9, Time out
+2021-01-28 22:03:19,711 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 579, Reward -2.8 , Distance 016.0, Time out
+2021-01-28 22:03:19,712 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 520, Reward -0.2 , Distance 016.0, Time out
+2021-01-28 22:03:19,715 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 579, Reward -1.7 , Distance 016.0, Time out
+2021-01-28 22:03:31,439 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 108, Reward -2.8 , Distance 016.0, Crashed
+2021-01-28 22:03:38,813 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 177, Reward -7.3 , Distance 015.9, Time out
+2021-01-28 22:03:49,996 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 857, Reward -3.0 , Distance 016.0, Time out
+2021-01-28 22:03:59,923 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 262, Reward -2.8 , Distance 015.9, Time out
+2021-01-28 22:04:11,400 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 107, Reward -4.2 , Distance 015.9, Crashed
+2021-01-28 22:04:18,832 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 1122, Reward -6.8 , Distance 016.0, Time out
+2021-01-28 22:04:29,289 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 832, Reward -4.8 , Distance 015.9, Time out
+2021-01-28 22:04:39,010 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 832, Reward -5.7 , Distance 016.0, Time out
+2021-01-28 22:04:51,432 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 116, Reward -2.1 , Distance 016.0, Crashed
+2021-01-28 22:05:01,818 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 394, Reward -3.8 , Distance 016.0, Time out
+2021-01-28 22:05:08,607 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 358, Reward -6.6 , Distance 016.0, Time out
+2021-01-28 22:05:17,309 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 601, Reward -5.4 , Distance 015.9, Time out
+2021-01-28 22:05:17,311 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 899, Reward -6.3 , Distance 015.9, Time out
+2021-01-28 22:05:26,696 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 1738, Reward -5.5 , Distance 016.0, Time out
+2021-01-28 22:05:34,915 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 1233, Reward -6.9 , Distance 015.9, Time out
+2021-01-28 22:05:42,034 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 363, Reward -7.6 , Distance 015.9, Time out
+2021-01-28 22:05:51,929 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 1965, Reward -3.9 , Distance 016.0, Time out
+2021-01-28 22:06:01,901 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 2053, Reward -3.9 , Distance 016.0, Time out
+2021-01-28 22:06:11,503 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 2144, Reward -3.5 , Distance 016.0, Time out
+2021-01-28 22:06:18,788 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 396, Reward -7.9 , Distance 016.0, Time out
+2021-01-28 22:06:18,820 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 469, Reward -7.9 , Distance 015.9, Time out
+2021-01-28 22:06:30,331 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 346, Reward -2.9 , Distance 016.0, Time out
+2021-01-28 22:06:38,525 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 242, Reward -5.8 , Distance 015.9, Time out
+2021-01-28 22:06:50,407 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 2494, Reward -1.5 , Distance 016.0, Time out
+2021-01-28 22:07:02,702 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 115, Reward -2.4 , Distance 015.9, Crashed
+2021-01-28 22:07:13,130 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 318, Reward -3.1 , Distance 015.9, Time out
+2021-01-28 22:07:13,142 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 095, Reward -5.1 , Distance 016.0, Crashed
+2021-01-28 22:07:23,114 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 592, Reward -1.4 , Distance 015.9, Time out
+2021-01-28 22:07:33,032 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 1468, Reward -3.9 , Distance 015.9, Time out
+2021-01-28 22:07:43,023 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 178, Reward -4.8 , Distance 015.9, Time out
+2021-01-28 22:07:43,023 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 2118, Reward -3.9 , Distance 015.9, Time out
+2021-01-28 22:07:54,512 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 1029, Reward -1.6 , Distance 015.9, Time out
+2021-01-28 22:08:04,922 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 1527, Reward -3.7 , Distance 015.9, Time out
+2021-01-28 22:08:14,689 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 187, Reward -3.7 , Distance 015.9, Time out
+2021-01-28 22:08:23,436 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 644, Reward -5.4 , Distance 015.9, Time out
+2021-01-28 22:08:30,097 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 1755, Reward -7.3 , Distance 016.0, Time out
+2021-01-28 22:08:38,030 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 210, Reward -6.1 , Distance 015.9, Time out
+2021-01-28 22:08:46,600 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 1984, Reward -5.6 , Distance 015.9, Time out
+2021-01-28 22:08:55,696 - INFO - Env 07, Goal (006.9, 004.0), Episode 00007, step 665, Reward -5.9 , Distance 015.9, Time out
+2021-01-28 22:09:05,210 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 317, Reward -4.0 , Distance 015.9, Time out
+2021-01-28 22:09:12,411 - INFO - Env 04, Goal (004.0, -06.9), Episode 00007, step 612, Reward -6.6 , Distance 015.9, Time out
+2021-01-28 22:09:21,732 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 400, Reward -5.5 , Distance 015.9, Time out
+2021-01-28 22:09:31,207 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 243, Reward -4.1 , Distance 015.9, Time out
+2021-01-28 22:09:41,793 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 1178, Reward -3.3 , Distance 015.9, Time out
+2021-01-28 22:09:55,133 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 310, Reward 0.1  , Distance 015.9, Time out
+2021-01-28 22:09:55,143 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00007, step 628, Reward 1.0  , Distance 015.9, Time out
+2021-01-28 22:10:03,636 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 2056, Reward -6.0 , Distance 015.9, Time out
+2021-01-28 22:10:14,491 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 1385, Reward -1.7 , Distance 015.9, Time out
+2021-01-28 22:10:22,627 - INFO - Env 09, Goal (000.0, 008.0), Episode 00007, step 372, Reward -6.7 , Distance 015.9, Time out
+2021-01-28 22:10:31,826 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 2637, Reward -3.0 , Distance 015.9, Time out
+2021-01-28 22:15:15,349 - INFO - #####################################
+2021-01-28 22:15:15,390 - INFO - ############Start Training###########
+2021-01-28 22:15:15,390 - INFO - #####################################
+2021-01-28 22:17:16,316 - INFO - #####################################
+2021-01-28 22:17:16,316 - INFO - ############Start Training###########
+2021-01-28 22:17:16,316 - INFO - #####################################
+2021-01-28 22:17:24,562 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 073, Reward -7.3 , Distance 016.0, Crashed
+2021-01-28 22:17:33,071 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 139, Reward -7.9 , Distance 016.0, Crashed
+2021-01-28 22:17:40,768 - INFO - Env 04, Goal (004.0, -06.9), Episode 00001, step 211, Reward -6.3 , Distance 016.0, Crashed
+2021-01-28 22:17:46,938 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 263, Reward -9.9 , Distance 016.0, Crashed
+2021-01-28 22:17:54,366 - INFO - Env 04, Goal (004.0, -06.9), Episode 00002, step 122, Reward -6.7 , Distance 015.9, Crashed
+2021-01-28 22:18:06,445 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 445, Reward -1.4 , Distance 016.0, Crashed
+2021-01-28 22:18:13,370 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 509, Reward -8.0 , Distance 016.0, Crashed
+2021-01-28 22:18:24,666 - INFO - Env 03, Goal (000.0, -08.0), Episode 00002, step 105, Reward -17.7, Distance 015.9, Crashed
+2021-01-28 22:18:33,937 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 698, Reward -4.8 , Distance 016.0, Crashed
+2021-01-28 22:18:33,938 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 698, Reward -5.1 , Distance 016.0, Crashed
+2021-01-28 22:18:46,576 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00002, step 743, Reward -17.2, Distance 015.9, Crashed
+2021-01-28 22:18:54,451 - INFO - Env 04, Goal (004.0, -06.9), Episode 00003, step 558, Reward -5.4 , Distance 015.9, Crashed
+2021-01-28 22:19:03,577 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 972, Reward -6.7 , Distance 016.0, Crashed
+2021-01-28 22:19:03,578 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00002, step 275, Reward -6.5 , Distance 015.9, Crashed
+2021-01-28 22:19:11,262 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00003, step 070, Reward -7.8 , Distance 015.9, Crashed
+2021-01-28 22:19:17,074 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00002, step 123, Reward -8.5 , Distance 015.9, Crashed
+2021-01-28 22:19:26,555 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 736, Reward -6.9 , Distance 016.0, Crashed
+2021-01-28 22:19:33,783 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 1247, Reward -6.5 , Distance 016.0, Crashed
+2021-01-28 22:19:40,277 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 1302, Reward -7.9 , Distance 016.0, Crashed
+2021-01-28 22:19:48,137 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00003, step 283, Reward -6.3 , Distance 015.9, Crashed
+2021-01-28 22:19:55,944 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00004, step 069, Reward -6.8 , Distance 015.9, Crashed
+2021-01-28 22:20:11,162 - INFO - Env 03, Goal (000.0, -08.0), Episode 00003, step 976, Reward -15.4, Distance 015.9, Crashed
+2021-01-28 22:20:17,570 - INFO - Env 05, Goal (006.9, -04.0), Episode 00002, step 346, Reward -8.7 , Distance 015.9, Crashed
+2021-01-28 22:20:25,956 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00003, step 908, Reward -4.5 , Distance 015.9, Crashed
+2021-01-28 22:20:33,355 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 1094, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:20:38,753 - INFO - Env 04, Goal (004.0, -06.9), Episode 00004, step 949, Reward -9.5 , Distance 015.9, Crashed
+2021-01-28 22:20:44,163 - INFO - Env 05, Goal (006.9, -04.0), Episode 00003, step 240, Reward -9.6 , Distance 015.9, Crashed
+2021-01-28 22:20:44,166 - INFO - Env 04, Goal (004.0, -06.9), Episode 00005, step 050, Reward -9.4 , Distance 016.0, Crashed
+2021-01-28 22:20:49,540 - INFO - Env 03, Goal (000.0, -08.0), Episode 00004, step 344, Reward -9.7 , Distance 015.9, Crashed
+2021-01-28 22:20:57,837 - INFO - Env 07, Goal (006.9, 004.0), Episode 00003, step 830, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:21:07,048 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00004, step 1052, Reward -3.1 , Distance 015.9, Crashed
+2021-01-28 22:21:14,449 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 370, Reward -5.4 , Distance 016.0, Crashed
+2021-01-28 22:21:22,638 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 2232, Reward -5.5 , Distance 016.0, Crashed
+2021-01-28 22:21:32,481 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 2184, Reward -4.8 , Distance 016.0, Crashed
+2021-01-28 22:21:32,482 - INFO - Env 05, Goal (006.9, -04.0), Episode 00004, step 437, Reward -4.0 , Distance 015.9, Crashed
+2021-01-28 22:21:37,660 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00005, step 278, Reward -10.9, Distance 015.9, Crashed
+2021-01-28 22:21:43,267 - INFO - Env 03, Goal (000.0, -08.0), Episode 00005, step 490, Reward -10.2, Distance 015.9, Crashed
+2021-01-28 22:21:48,969 - INFO - Env 03, Goal (000.0, -08.0), Episode 00006, step 049, Reward -9.0 , Distance 015.9, Crashed
+2021-01-28 22:21:48,969 - INFO - Env 04, Goal (004.0, -06.9), Episode 00006, step 583, Reward -9.9 , Distance 015.9, Crashed
+2021-01-28 22:21:56,657 - INFO - Env 03, Goal (000.0, -08.0), Episode 00007, step 073, Reward -7.3 , Distance 015.9, Crashed
+2021-01-28 22:22:04,861 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 2351, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:22:10,938 - INFO - Env 07, Goal (006.9, 004.0), Episode 00004, step 661, Reward -9.3 , Distance 015.9, Crashed
+2021-01-28 22:22:10,940 - INFO - Env 08, Goal (004.0, 006.9), Episode 00004, step 510, Reward -9.1 , Distance 016.0, Crashed
+2021-01-28 22:22:18,740 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00006, step 371, Reward -5.6 , Distance 016.0, Crashed
+2021-01-28 22:22:24,342 - INFO - Env 04, Goal (004.0, -06.9), Episode 00007, step 323, Reward -9.4 , Distance 015.9, Crashed
+2021-01-28 22:22:30,340 - INFO - Env 09, Goal (000.0, 008.0), Episode 00002, step 610, Reward -9.1 , Distance 016.0, Crashed
+2021-01-28 22:22:30,342 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00003, step 229, Reward -8.4 , Distance 015.9, Crashed
+2021-01-28 22:22:38,240 - INFO - Env 06, Goal (008.0, 000.0), Episode 00003, step 594, Reward -5.6 , Distance 015.9, Crashed
+2021-01-28 22:22:47,182 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00004, step 155, Reward -5.0 , Distance 015.9, Crashed
+2021-01-28 22:22:53,354 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00005, step 058, Reward -8.7 , Distance 015.9, Crashed
+2021-01-28 22:23:01,254 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00004, step 1402, Reward -6.0 , Distance 015.9, Crashed
+2021-01-28 22:23:10,046 - INFO - Env 03, Goal (000.0, -08.0), Episode 00008, step 663, Reward -5.7 , Distance 015.9, Crashed
+2021-01-28 22:23:16,734 - INFO - Env 07, Goal (006.9, 004.0), Episode 00005, step 596, Reward -7.4 , Distance 015.9, Crashed
+2021-01-28 22:23:25,142 - INFO - Env 07, Goal (006.9, 004.0), Episode 00006, step 077, Reward -5.6 , Distance 015.9, Crashed
+2021-01-28 22:23:32,477 - INFO - Env 06, Goal (008.0, 000.0), Episode 00004, step 494, Reward -7.3 , Distance 015.9, Crashed
+2021-01-28 22:23:38,677 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00005, step 339, Reward -8.9 , Distance 015.9, Crashed
+2021-01-28 22:23:46,451 - INFO - Env 09, Goal (000.0, 008.0), Episode 00003, step 694, Reward -6.6 , Distance 015.9, Crashed
+2021-01-28 22:23:53,058 - INFO - Env 08, Goal (004.0, 006.9), Episode 00005, step 923, Reward -8.1 , Distance 015.9, Crashed
+2021-01-28 22:24:01,655 - INFO - Env 07, Goal (006.9, 004.0), Episode 00007, step 333, Reward -5.1 , Distance 015.9, Crashed
+2021-01-28 22:24:13,739 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00006, step 325, Reward 0.1  , Distance 015.9, Crashed
+2021-01-28 22:24:19,372 - INFO - Env 03, Goal (000.0, -08.0), Episode 00009, step 635, Reward -9.6 , Distance 015.9, Crashed
+2021-01-28 22:24:28,737 - INFO - Env 03, Goal (000.0, -08.0), Episode 00010, step 087, Reward -3.9 , Distance 015.9, Crashed
+2021-01-28 22:24:34,437 - INFO - Env 07, Goal (006.9, 004.0), Episode 00008, step 299, Reward -8.7 , Distance 016.0, Crashed
+2021-01-28 22:24:41,771 - INFO - Env 07, Goal (006.9, 004.0), Episode 00009, step 069, Reward -6.4 , Distance 016.0, Crashed
+2021-01-28 22:24:48,940 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00006, step 1050, Reward -7.6 , Distance 015.9, Crashed
+2021-01-28 22:24:54,967 - INFO - Env 07, Goal (006.9, 004.0), Episode 00010, step 118, Reward -7.7 , Distance 015.9, Crashed
+2021-01-28 22:24:54,967 - INFO - Env 08, Goal (004.0, 006.9), Episode 00006, step 565, Reward -7.2 , Distance 015.9, Crashed
+2021-01-28 22:25:01,480 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00005, step 2772, Reward -6.7 , Distance 016.0, Crashed
+2021-01-28 22:25:09,243 - INFO - Env 04, Goal (004.0, -06.9), Episode 00008, step 1495, Reward -5.9 , Distance 015.9, Crashed
+2021-01-28 22:25:18,956 - INFO - Env 03, Goal (000.0, -08.0), Episode 00011, step 452, Reward -2.9 , Distance 015.9, Crashed
+2021-01-28 22:25:27,535 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00007, step 354, Reward -4.8 , Distance 015.9, Crashed
+2021-01-28 22:25:35,653 - INFO - Env 08, Goal (004.0, 006.9), Episode 00007, step 372, Reward -5.1 , Distance 015.9, Crashed
+2021-01-28 22:25:44,954 - INFO - Env 06, Goal (008.0, 000.0), Episode 00005, step 1203, Reward -2.7 , Distance 015.9, Crashed
+2021-01-28 22:25:52,344 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00007, step 894, Reward -5.9 , Distance 015.9, Crashed
+2021-01-28 22:26:00,247 - INFO - Env 07, Goal (006.9, 004.0), Episode 00011, step 595, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:26:06,566 - INFO - Env 07, Goal (006.9, 004.0), Episode 00012, step 059, Reward -6.7 , Distance 015.9, Crashed
+2021-01-28 22:26:12,576 - INFO - Env 04, Goal (004.0, -06.9), Episode 00009, step 579, Reward -8.1 , Distance 015.9, Crashed
+2021-01-28 22:26:19,561 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00008, step 247, Reward -5.2 , Distance 015.9, Crashed
+2021-01-28 22:26:27,660 - INFO - Env 05, Goal (006.9, -04.0), Episode 00005, step 2674, Reward -3.3 , Distance 015.9, Crashed
+2021-01-28 22:26:37,138 - INFO - Env 05, Goal (006.9, -04.0), Episode 00006, step 091, Reward -3.6 , Distance 015.9, Crashed
+2021-01-28 22:26:45,058 - INFO - Env 09, Goal (000.0, 008.0), Episode 00004, step 1622, Reward -4.4 , Distance 015.9, Crashed
+2021-01-28 22:26:52,389 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00008, step 770, Reward -4.2 , Distance 015.9, Crashed
+2021-01-28 22:27:05,535 - INFO - Env 05, Goal (006.9, -04.0), Episode 00007, step 262, Reward 4.1  , Distance 015.9, Crashed
+2021-01-28 22:27:13,341 - INFO - Env 03, Goal (000.0, -08.0), Episode 00012, step 1042, Reward -4.1 , Distance 015.9, Crashed
+2021-01-28 22:27:22,052 - INFO - Env 09, Goal (000.0, 008.0), Episode 00005, step 342, Reward -3.9 , Distance 015.9, Crashed
+2021-01-28 22:27:31,178 - INFO - Env 03, Goal (000.0, -08.0), Episode 00013, step 165, Reward -4.0 , Distance 016.0, Crashed
+2021-01-28 22:27:38,871 - INFO - Env 04, Goal (004.0, -06.9), Episode 00010, step 786, Reward -4.0 , Distance 015.9, Crashed
+2021-01-28 22:27:45,881 - INFO - Env 04, Goal (004.0, -06.9), Episode 00011, step 066, Reward -5.4 , Distance 015.9, Crashed
+2021-01-28 22:27:52,280 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00007, step 3029, Reward -7.5 , Distance 015.9, Crashed
+2021-01-28 22:27:57,974 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00009, step 896, Reward -9.2 , Distance 015.9, Crashed
+2021-01-28 22:28:06,040 - INFO - Env 06, Goal (008.0, 000.0), Episode 00006, step 1282, Reward -5.2 , Distance 015.9, Crashed
+2021-01-28 22:28:13,764 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00010, step 145, Reward -4.4 , Distance 015.9, Crashed
+2021-01-28 22:28:22,556 - INFO - Env 05, Goal (006.9, -04.0), Episode 00008, step 697, Reward -4.0 , Distance 015.9, Crashed
+2021-01-28 22:28:29,974 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00008, step 345, Reward -6.0 , Distance 015.9, Crashed
+2021-01-28 22:28:36,965 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00009, step 950, Reward -5.9 , Distance 015.9, Crashed
+2021-01-28 22:28:42,572 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00002, step 4977, Reward -7.0 , Distance 015.9, Crashed
+2021-01-28 22:28:51,138 - INFO - Env 03, Goal (000.0, -08.0), Episode 00014, step 723, Reward -4.4 , Distance 015.9, Crashed
+2021-01-28 22:28:58,550 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00009, step 259, Reward -4.4 , Distance 015.9, Crashed
+2021-01-28 22:29:05,360 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00011, step 467, Reward -5.6 , Distance 015.9, Crashed
+2021-01-28 22:29:12,956 - INFO - Env 08, Goal (004.0, 006.9), Episode 00008, step 1975, Reward -3.9 , Distance 015.9, Crashed
+2021-01-28 22:29:19,178 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00012, step 125, Reward -6.1 , Distance 015.9, Crashed
+2021-01-28 22:29:27,651 - INFO - Env 05, Goal (006.9, -04.0), Episode 00009, step 592, Reward -3.7 , Distance 015.9, Crashed
+2021-01-28 22:29:33,878 - INFO - Env 07, Goal (006.9, 004.0), Episode 00013, step 1880, Reward -5.4 , Distance 016.0, Crashed
+2021-01-28 22:29:41,455 - INFO - Env 04, Goal (004.0, -06.9), Episode 00012, step 1046, Reward -5.2 , Distance 016.0, Crashed
+2021-01-28 22:29:50,052 - INFO - Env 07, Goal (006.9, 004.0), Episode 00014, step 149, Reward -3.1 , Distance 015.9, Crashed
+2021-01-28 22:29:57,952 - INFO - Env 09, Goal (000.0, 008.0), Episode 00006, step 1413, Reward -4.4 , Distance 015.9, Crashed
+2021-01-28 22:30:04,154 - INFO - Env 08, Goal (004.0, 006.9), Episode 00009, step 461, Reward -7.2 , Distance 016.0, Crashed
+2021-01-28 22:30:11,954 - INFO - Env 04, Goal (004.0, -06.9), Episode 00013, step 277, Reward -4.9 , Distance 015.9, Crashed
+2021-01-28 22:30:21,167 - INFO - Env 09, Goal (000.0, 008.0), Episode 00007, step 210, Reward -3.1 , Distance 015.9, Crashed
+2021-01-28 22:30:27,746 - INFO - Env 04, Goal (004.0, -06.9), Episode 00014, step 142, Reward -6.3 , Distance 015.9, Crashed
+2021-01-28 22:30:34,160 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00013, step 681, Reward -6.0 , Distance 016.0, Crashed
+2021-01-28 22:30:41,440 - INFO - Env 05, Goal (006.9, -04.0), Episode 00010, step 666, Reward -3.5 , Distance 015.9, Crashed
+2021-01-28 22:30:48,880 - INFO - Env 03, Goal (000.0, -08.0), Episode 00015, step 1068, Reward -4.6 , Distance 015.9, Crashed
+2021-01-28 22:30:57,539 - INFO - Env 05, Goal (006.9, -04.0), Episode 00011, step 148, Reward -2.9 , Distance 016.0, Crashed
+2021-01-28 22:31:05,951 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00010, step 1353, Reward -2.6 , Distance 016.0, Crashed
+2021-01-28 22:31:15,346 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00006, step 3395, Reward -0.9 , Distance 015.9, Crashed
+2021-01-28 22:31:24,859 - INFO - Env 08, Goal (004.0, 006.9), Episode 00010, step 736, Reward -2.5 , Distance 015.9, Crashed
+2021-01-28 22:31:32,145 - INFO - Env 07, Goal (006.9, 004.0), Episode 00015, step 930, Reward -4.7 , Distance 015.9, Crashed
+2021-01-28 22:31:40,683 - INFO - Env 07, Goal (006.9, 004.0), Episode 00016, step 078, Reward -2.6 , Distance 015.9, Crashed
+2021-01-28 22:31:48,051 - INFO - Env 03, Goal (000.0, -08.0), Episode 00016, step 543, Reward -3.8 , Distance 015.9, Crashed
+2021-01-28 22:31:56,436 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00011, step 462, Reward -1.8 , Distance 015.9, Crashed
+2021-01-28 22:32:03,171 - INFO - Env 09, Goal (000.0, 008.0), Episode 00008, step 931, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:32:10,049 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00003, step 1885, Reward -5.8 , Distance 015.9, Crashed
+2021-01-28 22:32:16,761 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00012, step 185, Reward -4.9 , Distance 016.0, Crashed
+2021-01-28 22:32:25,059 - INFO - Env 08, Goal (004.0, 006.9), Episode 00011, step 549, Reward -2.3 , Distance 016.0, Crashed
+2021-01-28 22:32:33,353 - INFO - Env 07, Goal (006.9, 004.0), Episode 00017, step 482, Reward -1.8 , Distance 015.9, Crashed
+2021-01-28 22:32:40,860 - INFO - Env 04, Goal (004.0, -06.9), Episode 00015, step 1218, Reward -3.7 , Distance 015.9, Crashed
+2021-01-28 22:32:49,767 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00014, step 1240, Reward -3.5 , Distance 015.9, Crashed
+2021-01-28 22:32:57,052 - INFO - Env 07, Goal (006.9, 004.0), Episode 00018, step 220, Reward -3.6 , Distance 015.9, Crashed
+2021-01-28 22:33:04,167 - INFO - Env 04, Goal (004.0, -06.9), Episode 00016, step 212, Reward -5.2 , Distance 015.9, Crashed
+2021-01-28 22:33:11,549 - INFO - Env 09, Goal (000.0, 008.0), Episode 00009, step 625, Reward -3.7 , Distance 015.9, Crashed
+2021-01-28 22:33:20,361 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00013, step 583, Reward -2.1 , Distance 015.9, Crashed
+2021-01-28 22:45:52,674 - INFO - #####################################
+2021-01-28 22:45:52,676 - INFO - ############Start Training###########
+2021-01-28 22:45:52,677 - INFO - #####################################
+2021-01-28 22:46:04,979 - INFO - Env 02, Goal (-04.0, -06.9), Episode 00001, step 104, Reward -17.3, Distance 016.0, Crashed
+2021-01-28 22:46:17,009 - INFO - Env 03, Goal (000.0, -08.0), Episode 00001, step 212, Reward -16.8, Distance 016.0, Crashed
+2021-01-28 22:46:30,200 - INFO - Env 01, Goal (-06.9, -04.0), Episode 00001, step 335, Reward -17.0, Distance 016.0, Crashed
+2021-01-28 22:46:44,101 - INFO - Env 00, Goal (-08.0, 000.0), Episode 00001, step 465, Reward -17.3, Distance 016.0, Crashed
+2021-01-28 22:46:59,067 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 606, Reward -15.7, Distance 016.0, Crashed
+2021-01-28 22:47:17,601 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 778, Reward -14.9, Distance 016.0, Crashed
+2021-01-28 22:48:20,270 - INFO - ####################################
+2021-01-28 22:48:20,270 - INFO - ############Loading Model###########
+2021-01-28 22:48:20,270 - INFO - ####################################
+2021-01-28 22:48:29,123 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 077, Reward 1.6  , Distance 016.0, Crashed
+2021-01-28 22:48:29,130 - INFO - Env 08, Goal (004.0, 006.9), Episode 00001, step 077, Reward 2.0  , Distance 016.0, Crashed
+2021-01-28 22:48:37,997 - INFO - Env 08, Goal (004.0, 006.9), Episode 00002, step 075, Reward 0.9  , Distance 016.0, Crashed
+2021-01-28 22:48:45,852 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00001, step 222, Reward 0.2  , Distance 016.0, Crashed
+2021-01-28 22:48:54,347 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 298, Reward 1.0  , Distance 016.0, Crashed
+2021-01-28 22:48:54,350 - INFO - Env 08, Goal (004.0, 006.9), Episode 00003, step 148, Reward 1.0  , Distance 016.0, Crashed
+2021-01-28 22:49:02,664 - INFO - Env 10, Goal (-04.0, 006.9), Episode 00002, step 155, Reward 1.6  , Distance 016.0, Crashed
+2021-01-28 22:50:13,277 - INFO - ####################################
+2021-01-28 22:50:13,277 - INFO - ############Loading Model###########
+2021-01-28 22:50:13,278 - INFO - ####################################
+2021-01-28 22:50:21,623 - INFO - Env 09, Goal (000.0, 008.0), Episode 00001, step 070, Reward 1.0  , Distance 016.0, Crashed
+2021-01-28 22:50:29,608 - INFO - Env 07, Goal (006.9, 004.0), Episode 00001, step 140, Reward 0.4  , Distance 016.0, Crashed
+2021-01-28 22:50:37,538 - INFO - Env 05, Goal (006.9, -04.0), Episode 00001, step 214, Reward 0.9  , Distance 016.0, Crashed
+2021-01-28 22:50:45,724 - INFO - Env 07, Goal (006.9, 004.0), Episode 00002, step 147, Reward 0.5  , Distance 015.9, Crashed
+2021-01-28 22:50:53,327 - INFO - Env 06, Goal (008.0, 000.0), Episode 00001, step 357, Reward -0.2 , Distance 016.0, Crashed
+2021-01-28 22:51:01,339 - INFO - Env 06, Goal (008.0, 000.0), Episode 00002, step 071, Reward 0.5  , Distance 015.9, Crashed
+2021-01-28 22:51:09,140 - INFO - Env 11, Goal (-06.9, 004.0), Episode 00001, step 497, Reward 0.6  , Distance 016.0, Crashed
